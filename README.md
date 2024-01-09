@@ -27,6 +27,7 @@ Debrid services are web apps that provide premium access to multiple file hosts.
 - [Debrid-Link](https://debrid-link.com/)
 - [Offcloud](https://offcloud.com/)
 - [put.io](https://put.io/)
+- [LinkSnappy](https://linksnappy.com/)
 
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
