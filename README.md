@@ -19,7 +19,9 @@ A curated list of awesome debrid services that enhance your streaming and downlo
 ## What is a Debrid service?
 **Before:** Debrid services are web apps that provide premium access to multiple file hosts (or one-click hosters). This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions. They are also referred to as multi one-click hosters (MOCH).
 
-**Now:** Debrid services are becoming more and more popular lately because of being able to instantly download torrents and providing an HTTPS link to download or stream it. The concept is similar to a shared [seedbox](https://en.wikipedia.org/wiki/Seedbox). The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.net/) content and it supports streaming a la Netflix. Other Debrid services like Real-Debrid also supports video transcoding without any additional fees.
+**Now:** Debrid services are becoming more and more popular lately because of being able to instantly download torrents and providing an HTTPS (!) link to download or stream it. The concept is similar to a shared [seedbox](https://en.wikipedia.org/wiki/Seedbox). The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.net/) content and it supports streaming a la Netflix. Other Debrid services like Real-Debrid also supports video transcoding without any additional fees.
+
+Downloading via a HTTPS link with a Debrid service provides enhanced security, as the encryption of the download URL ensures that the specifics of what you are downloading remain hidden from anyone monitoring the network.
 
 ## Debrid Services
 
