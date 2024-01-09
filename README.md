@@ -43,8 +43,9 @@ Debrid services are becoming more and more popular lately because of being able 
 - [TorBox](https://torbox.app/)
 - [PikPak](https://mypikpak.com/)
 
+### Supports One-Click Hosters Only
 <details>
-  <summary>Supports One-Click Hosters Only</summary>
+  <summary>Not what we want, but sure...</summary>
 
   - [Cooldebrid](https://cooldebrid.com/)
   - [DebridItalia](https://www.debriditalia.com/)
