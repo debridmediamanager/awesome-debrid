@@ -25,6 +25,11 @@ Debrid services are becoming more and more popular lately because of being able 
 - [LinkSnappy](https://linksnappy.com/)
 - [PikPak](https://mypikpak.com/)
 
+## Content Managers
+
+- [Debrid Media Manager](https://debridmediamanager.com/)
+- [Unchained](https://github.com/LivingWithHippos/unchained-android)
+
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
 
