@@ -30,14 +30,27 @@ Debrid services are becoming more and more popular lately because of being able 
 - [Debrid-Link](https://debrid-link.com/)
 - [Offcloud](https://offcloud.com/)
 - [put.io](https://put.io/)
+- [LinkSnappy](https://linksnappy.com/)
+- [premium.to](https://premium.to/)
+- [ProLeech](https://proleech.link/) - not tested
+- [Deepbrid](https://www.deepbrid.com/)
+- [Zevera](https://www.zevera.com/)
+- [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
 
 ### Supports Torrent Only
 - [TorBox](https://torbox.app/)
 - [PikPak](https://mypikpak.com/)
 
 ### Supports One-Click Hosters Only
-- [LinkSnappy](https://linksnappy.com/)
 - [Cooldebrid](https://cooldebrid.com/)
+- [DebridItalia](https://www.debriditalia.com/)
+- [Leechall](https://leechall.io/)
+- [Grab8](https://www.grab8.com/)
+- [SMOOZED](https://www.smoozed.biz/)
+- [Simply Debrid](https://simply-debrid.com/)
+- [CboxEra](https://www.cboxera.com/)
+- [NeoDebrid](https://neodebrid.com/main)
+- [Daily Leech](https://dailyleech.com/)
 
 ## *arr stack
 - [plex_debrid](https://github.com/itsToggle/plex_debrid)
