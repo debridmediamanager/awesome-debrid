@@ -26,7 +26,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 ## Debrid Services
 
 ### Supports Torrent + One-Click Hosters
-- [Real-Debrid](https://real-debrid.com/)
+- [Real-Debrid](https://real-debrid.com/) - cheapest plan: €3/15d longest plan: €16/180d 42 Active Torrents 2TB Per Torrent
 - [AllDebrid](https://alldebrid.com/)
 - [Premiumize](https://www.premiumize.me/)
 - [Debrid-Link](https://debrid-link.com/)
@@ -48,8 +48,8 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 </details>
 
 ### Supports Torrent Only
-- [TorBox](https://torbox.app/)
-- [PikPak](https://mypikpak.com/)
+- [TorBox](https://torbox.app/) - cheapest plan: $3/mo longest plan: $33/yr 3 Active Torrents 100GB Per Torrent
+- [PikPak](https://mypikpak.com/) - cheapest plan: $6.3/mo longest plan: $63.99/yr limited to 10TB download
 
 ### Supports One-Click Hosters Only
 <details>
