@@ -4,7 +4,6 @@ A curated list of awesome debrid services that enhance your streaming and downlo
 
 ## Contents
 - [What is a Debrid service?](#what-is-a-debrid-service)
-- [Why They Are Awesome](#why-they-are-awesome)
 - [List of Debrid Services](#list-of-debrid-services)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
@@ -12,11 +11,7 @@ A curated list of awesome debrid services that enhance your streaming and downlo
 ## What is a Debrid service?
 Debrid services are web apps that provide premium access to multiple file hosts. This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions.
 
-## Why They Are Awesome
-- **Enhanced Speed:** Debrid services typically offer faster download speeds compared to free hosts.
-- **One Account, Multiple Hosts:** Access content from various file hosts using just one debrid account.
-- **Cost-Effective:** More affordable than subscribing to multiple premium file hosting services.
-- **Improved Reliability:** Better uptime and more consistent download speeds.
+Debrid services are becoming more and more popular lately because of being able to instantly download torrents and providing an HTTPS link to download or stream it. The concept is similar to a shared [seedbox](https://en.wikipedia.org/wiki/Seedbox). The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.net/) content and it supports streaming a la Netflix. Other Debrid services like Real-Debrid also supports video transcoding without any additional fees.
 
 ## Debrid Services
 
@@ -28,6 +23,7 @@ Debrid services are web apps that provide premium access to multiple file hosts.
 - [Offcloud](https://offcloud.com/)
 - [put.io](https://put.io/)
 - [LinkSnappy](https://linksnappy.com/)
+- [PikPak](https://mypikpak.com/)
 
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
