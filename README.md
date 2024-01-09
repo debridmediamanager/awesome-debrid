@@ -3,13 +3,16 @@
 A curated list of awesome debrid services that enhance your streaming and downloading experience. These services have been personally tested and recommended for their quality, reliability, and range of features.
 
 ## Contents
-- [What is a Debrid service?](#what-is-a-debrid-service)
-- [List of Debrid Services](#list-of-debrid-services)
-- [*arr stack](#arr-stack)
-- [File system](#File-system)
-- [Content Managers](#Content-Managers)
-- [Miscellaneous](#Miscellaneous)
-- [Communities](#Communities)
+- [What is a Debrid Service?](#what-is-a-debrid-service)
+- [Debrid Services](#debrid-services)
+  - [Supports Torrent + One-Click Hosters](#supports-torrent--one-click-hosters)
+  - [Supports Torrent Only](#supports-torrent-only)
+  - [Supports One-Click Hosters Only](#supports-one-click-hosters-only)
+- [*arr Stack](#arr-stack)
+- [File System](#file-system)
+- [Content Managers](#content-managers)
+- [Miscellaneous](#miscellaneous)
+- [Communities](#communities)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
