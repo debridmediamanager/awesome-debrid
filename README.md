@@ -20,15 +20,21 @@ Debrid services are becoming more and more popular lately because of being able 
 
 ## Debrid Services
 
+### Supports Torrent + One-Click Hosters
 - [Real-Debrid](https://real-debrid.com/)
-- [TorBox](https://torbox.app/)
 - [AllDebrid](https://alldebrid.com/)
 - [Premiumize](https://www.premiumize.me/)
 - [Debrid-Link](https://debrid-link.com/)
 - [Offcloud](https://offcloud.com/)
 - [put.io](https://put.io/)
-- [LinkSnappy](https://linksnappy.com/)
+
+### Supports Torrent Only
+- [TorBox](https://torbox.app/)
 - [PikPak](https://mypikpak.com/)
+
+### Supports One-Click Hosters Only
+- [LinkSnappy](https://linksnappy.com/)
+- [Cooldebrid](https://cooldebrid.com/)
 
 ## *arr stack
 - [plex_debrid](https://github.com/itsToggle/plex_debrid)
