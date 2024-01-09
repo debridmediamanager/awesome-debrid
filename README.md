@@ -5,6 +5,11 @@ A curated list of awesome debrid services that enhance your streaming and downlo
 ## Contents
 - [What is a Debrid service?](#what-is-a-debrid-service)
 - [List of Debrid Services](#list-of-debrid-services)
+- [*arr stack](#arr-stack)
+- [File system](#File-system)
+- [Content Managers](#Content-Managers)
+- [Miscellaneous](#Miscellaneous)
+- [Communities](#Communities)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -25,11 +30,12 @@ Debrid services are becoming more and more popular lately because of being able 
 - [LinkSnappy](https://linksnappy.com/)
 - [PikPak](https://mypikpak.com/)
 
-## *Arr stack
+## *arr stack
 - [plex_debrid](https://github.com/itsToggle/plex_debrid)
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
+- [rdt-client](https://github.com/rogerfar/rdt-client)
 
-## Filesystem
+## File system
 - [zurg](https://github.com/debridmediamanager/zurg-testing)
 - [rclone_RD](https://github.com/itsToggle/rclone_RD)
 
@@ -39,10 +45,15 @@ Debrid services are becoming more and more popular lately because of being able 
 - [Unchained](https://github.com/LivingWithHippos/unchained-android)
 - [Real Debrid Manager](https://rdm.ayush.gg/)
 
+## Miscellaneous
+
+- [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
+
 ## Communities
 
-- [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
 - [Debrid Media Manager & zurg subreddit](https://www.reddit.com/r/debridmediamanager/)
+- [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
+- [plex_debrid Discord](https://discord.gg/gDvqjjD3)
 
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
