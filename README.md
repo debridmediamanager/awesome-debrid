@@ -17,7 +17,7 @@ A curated list of awesome debrid services that enhance your streaming and downlo
 - [License](#license)
 
 ## What is a Debrid service?
-Debrid services are web apps that provide premium access to multiple file hosts. This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions.
+Debrid services are web apps that provide premium access to multiple file hosts (or one-click hosters). This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions. They are also referred to as multi one-click hosters (MOCH).
 
 Debrid services are becoming more and more popular lately because of being able to instantly download torrents and providing an HTTPS link to download or stream it. The concept is similar to a shared [seedbox](https://en.wikipedia.org/wiki/Seedbox). The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.net/) content and it supports streaming a la Netflix. Other Debrid services like Real-Debrid also supports video transcoding without any additional fees.
 
@@ -36,21 +36,29 @@ Debrid services are becoming more and more popular lately because of being able 
 - [Deepbrid](https://www.deepbrid.com/)
 - [Zevera](https://www.zevera.com/)
 - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
+- [BestDebrid](https://bestdebrid.com/start)
+- [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
 
 ### Supports Torrent Only
 - [TorBox](https://torbox.app/)
 - [PikPak](https://mypikpak.com/)
 
-### Supports One-Click Hosters Only
-- [Cooldebrid](https://cooldebrid.com/)
-- [DebridItalia](https://www.debriditalia.com/)
-- [Leechall](https://leechall.io/)
-- [Grab8](https://www.grab8.com/)
-- [SMOOZED](https://www.smoozed.biz/)
-- [Simply Debrid](https://simply-debrid.com/)
-- [CboxEra](https://www.cboxera.com/)
-- [NeoDebrid](https://neodebrid.com/main)
-- [Daily Leech](https://dailyleech.com/)
+<details>
+  <summary>Supports One-Click Hosters Only</summary>
+
+  - [Cooldebrid](https://cooldebrid.com/)
+  - [DebridItalia](https://www.debriditalia.com/)
+  - [Leechall](https://leechall.io/)
+  - [Grab8](https://www.grab8.com/)
+  - [SMOOZED](https://www.smoozed.biz/)
+  - [Simply Debrid](https://simply-debrid.com/)
+  - [CboxEra](https://www.cboxera.com/)
+  - [NeoDebrid](https://neodebrid.com/main)
+  - [Daily Leech](https://dailyleech.com/)
+  - [MultiShare](https://www.multishare.cz/en/)
+  - [Juba-Get](https://juba-get.com/)
+  - [RapidGrab](https://rapidgrab.ovh/)
+</details>
 
 ## *arr stack
 - [plex_debrid](https://github.com/itsToggle/plex_debrid)
