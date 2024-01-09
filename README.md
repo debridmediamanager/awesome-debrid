@@ -30,14 +30,20 @@ Debrid services are becoming more and more popular lately because of being able 
 - [Debrid-Link](https://debrid-link.com/)
 - [Offcloud](https://offcloud.com/)
 - [put.io](https://put.io/)
-- [LinkSnappy](https://linksnappy.com/)
-- [premium.to](https://premium.to/)
-- [ProLeech](https://proleech.link/) - not tested
-- [Deepbrid](https://www.deepbrid.com/)
-- [Zevera](https://www.zevera.com/)
-- [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
-- [BestDebrid](https://bestdebrid.com/start)
-- [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
+
+<details>
+  <summary>Not yet verified</summary>
+
+  - [LinkSnappy](https://linksnappy.com/)
+  - [premium.to](https://premium.to/)
+  - [ProLeech](https://proleech.link/) - not tested
+  - [Deepbrid](https://www.deepbrid.com/)
+  - [Zevera](https://www.zevera.com/)
+  - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
+  - [BestDebrid](https://bestdebrid.com/start)
+  - [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
+  - [TurkDown](https://turkdown.com/)
+</details>
 
 ### Supports Torrent Only
 - [TorBox](https://torbox.app/)
