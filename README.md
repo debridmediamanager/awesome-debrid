@@ -25,10 +25,24 @@ Debrid services are becoming more and more popular lately because of being able 
 - [LinkSnappy](https://linksnappy.com/)
 - [PikPak](https://mypikpak.com/)
 
+## *Arr stack
+- [plex_debrid](https://github.com/itsToggle/plex_debrid)
+- [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
+
+## Filesystem
+- [zurg](https://github.com/debridmediamanager/zurg-testing)
+- [rclone_RD](https://github.com/itsToggle/rclone_RD)
+
 ## Content Managers
 
 - [Debrid Media Manager](https://debridmediamanager.com/)
 - [Unchained](https://github.com/LivingWithHippos/unchained-android)
+- [Real Debrid Manager](https://rdm.ayush.gg/)
+
+## Communities
+
+- [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
+- [Debrid Media Manager & zurg subreddit](https://www.reddit.com/r/debridmediamanager/)
 
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
