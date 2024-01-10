@@ -38,7 +38,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
   - [LinkSnappy](https://linksnappy.com/)
   - [premium.to](https://premium.to/)
-  - [ProLeech](https://proleech.link/) - not tested
+  - [ProLeech](https://proleech.link/)
   - [Deepbrid](https://www.deepbrid.com/)
   - [Zevera](https://www.zevera.com/)
   - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
@@ -70,13 +70,13 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 </details>
 
 ## *arr stack
-- [plex_debrid](https://github.com/itsToggle/plex_debrid)
+- [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
-- [rdt-client](https://github.com/rogerfar/rdt-client)
+- [rdt-client](https://github.com/rogerfar/rdt-client) - Implements a fake qBittorrent API so you can hook up other applications like Sonarr, Radarr or Couchpotato
 
 ## File system
-- [zurg](https://github.com/debridmediamanager/zurg-testing)
-- [rclone_RD](https://github.com/itsToggle/rclone_RD)
+- [zurg](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
+- [rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
 
 ## Content Managers
 
