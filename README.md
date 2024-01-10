@@ -29,9 +29,9 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Real-Debrid](https://real-debrid.com/) - cheapest plan: `€3/15d` longest plan: `€16/180d` `42` Active Torrents `2TB` Per Torrent
 - [AllDebrid](https://alldebrid.com/) - cheapest plan: `€2.99/30d` limited to `1000` torrents
 - [Premiumize](https://www.premiumize.me/) - cheapest plan: `€9.99/mo` longest plan: `€69.99/yr` limited to `1TB` download
-- [Debrid-Link](https://debrid-link.com/) - cheapest plan: `-` longest plan: `-` `-` Active Torrents `-` Per Torrent
-- [Offcloud](https://offcloud.com/) - cheapest plan: `-` longest plan: `-` `-` Active Torrents `-` Per Torrent
-- [put.io](https://put.io/) - cheapest plan: `-` longest plan: `-` `-` Active Torrents `-` Per Torrent
+- [Debrid-Link](https://debrid-link.com/) - cheapest plan: `€3/15d` longest plan: `€25/300d` limited to `400GB/day`
+- [Offcloud](https://offcloud.com/) - cheapest plan: `$9.99/mo` longest plan: `$54.99/yr`
+- [put.io](https://put.io/) - cheapest plan: `$9.99/mo` longest plan: `$99/yr` `10/50/100` Active Torrents limited to `100GB/1TB/10TB` download
 
 <details>
   <summary>Not yet verified</summary>
@@ -48,8 +48,8 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 </details>
 
 ### Supports Torrent Only
-- [TorBox](https://torbox.app/) - cheapest plan: $3/mo longest plan: $33/yr 3 Active Torrents 100GB Per Torrent
-- [PikPak](https://mypikpak.com/) - cheapest plan: $6.3/mo longest plan: $63.99/yr limited to 10TB download
+- [TorBox](https://torbox.app/) - cheapest plan: `$3/mo` longest plan: `$33/yr` `3/5/10` Active Torrents `100GB/500GB` Per Torrent
+- [PikPak](https://mypikpak.com/) - cheapest plan: `$6.3/mo` longest plan: `$63.99/yr` limited to `10TB` download
 
 ### Supports One-Click Hosters Only
 <details>
