@@ -26,12 +26,12 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 ## Debrid Services
 
 ### Supports Torrent + One-Click Hosters
-- [Real-Debrid](https://real-debrid.com/) - cheapest plan: €3/15d longest plan: €16/180d 42 Active Torrents 2TB Per Torrent
-- [AllDebrid](https://alldebrid.com/)
-- [Premiumize](https://www.premiumize.me/)
-- [Debrid-Link](https://debrid-link.com/)
-- [Offcloud](https://offcloud.com/)
-- [put.io](https://put.io/)
+- [Real-Debrid](https://real-debrid.com/) - cheapest plan: `€3/15d` longest plan: `€16/180d` `42` Active Torrents `2TB` Per Torrent
+- [AllDebrid](https://alldebrid.com/) - cheapest plan: `€2.99/30d` limited to `1000` torrents
+- [Premiumize](https://www.premiumize.me/) - cheapest plan: `€9.99/mo` longest plan: `€69.99/yr` limited to `1TB` download
+- [Debrid-Link](https://debrid-link.com/) - cheapest plan: `-` longest plan: `-` `-` Active Torrents `-` Per Torrent
+- [Offcloud](https://offcloud.com/) - cheapest plan: `-` longest plan: `-` `-` Active Torrents `-` Per Torrent
+- [put.io](https://put.io/) - cheapest plan: `-` longest plan: `-` `-` Active Torrents `-` Per Torrent
 
 <details>
   <summary>Not yet verified</summary>
