@@ -3,19 +3,22 @@
 A curated list of awesome debrid services that enhance your streaming and downloading experience. These services have been personally tested and recommended for their quality, reliability, and range of features.
 
 ## Contents
-- [What is a Debrid Service?](#what-is-a-debrid-service)
-- [Debrid Services](#debrid-services)
-  - [Supports Torrent + One-Click Hosters](#supports-torrent--one-click-hosters)
-  - [Supports Torrent Only](#supports-torrent-only)
-  - [Supports One-Click Hosters Only](#supports-one-click-hosters-only)
-- [*Arr Stack](#arr-stack)
-- [File System](#file-system)
-- [Content Managers](#content-managers)
-- [Communities](#communities)
-- [Guides and Tutorials](#guides-and-tutorials)
-- [Miscellaneous](#miscellaneous)
-- [Contribution Guidelines](#contribution-guidelines)
-- [License](#license)
+- [awesome-debrid ](#awesome-debrid-)
+  - [Contents](#contents)
+  - [What is a Debrid service?](#what-is-a-debrid-service)
+  - [Debrid Services](#debrid-services)
+    - [Supports Torrent + One-Click Hosters](#supports-torrent--one-click-hosters)
+    - [Supports Torrent Only](#supports-torrent-only)
+    - [Supports One-Click Hosters Only](#supports-one-click-hosters-only)
+    - [Hosting Providers (VPS, Seedbox..)](#hosting-providers-vps-seedbox)
+  - [\*Arr Stack](#arr-stack)
+  - [File System](#file-system)
+  - [Content Managers](#content-managers)
+  - [Communities](#communities)
+  - [Guides and Tutorials](#guides-and-tutorials)
+  - [Miscellaneous](#miscellaneous)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [License](#license)
 
 ## What is a Debrid service?
 **Before:** Debrid services are web apps that provide premium access to multiple file hosts (or one-click hosters). This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions. They are also referred to as multi one-click hosters (MOCH).
@@ -70,6 +73,10 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - [SMOOZED](https://www.smoozed.biz/)
 </details>
 
+### Hosting Providers (VPS, Seedbox..)
+
+* [ElfHosted](https://elfhosted.com) - Plex+Zurg+plex_debrid ["Infinite Streaming"](https://store.elfhosted.com/product/infinite-real-debrid-plex-streaming-bundle) for `$0.30/day or $9/month`
+
 ## *Arr Stack
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
 - [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
@@ -94,8 +101,11 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Debrid Media Manager & zurg subreddit](https://www.reddit.com/r/debridmediamanager/)
 - [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
 - [plex_debrid Discord](https://discord.gg/gDvqjjD3)
+- [ElfHosted Discord](https://discord.elfhosted.com)
 
 ## Guides and Tutorials
+
+- [Streaming from Real-Debrid with Plex (*on ElfHosted*)](https://elfhosted.com/guides/media/stream-from-real-debrid-with-plex/)
 
 ## Miscellaneous
 
