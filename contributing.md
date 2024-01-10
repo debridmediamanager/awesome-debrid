@@ -20,7 +20,7 @@ Thank you for your interest in contributing to the awesome-debrid repository! We
 - **Service Details**: Provide essential details such as subscription plans, specific features (e.g., torrent support, one-click hosters), and any limitations.
 - **Update Existing Services**: If you find outdated information, feel free to update it with the latest details.
 
-### *arr Stack, File System, and Content Managers
+### *Arr Stack, File System, and Content Managers
 
 - Briefly describe the purpose and key features of the software or tool.
 - Ensure the links are up-to-date and lead directly to the official or most relevant page.
