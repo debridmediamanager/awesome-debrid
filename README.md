@@ -26,63 +26,66 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 ## Debrid Services
 
 ### Supports Torrent + One-Click Hosters
-- [Real-Debrid](https://real-debrid.com/) - cheapest plan: `€3/15d` longest plan: `€16/180d` `42` Active Torrents `2TB` Per Torrent
-- [AllDebrid](https://alldebrid.com/) - cheapest plan: `€2.99/30d` limited to `1000` torrents
-- [Premiumize](https://www.premiumize.me/) - cheapest plan: `€9.99/mo` longest plan: `€69.99/yr` limited to `1TB` download
-- [Debrid-Link](https://debrid-link.com/) - cheapest plan: `€3/15d` longest plan: `€25/300d` limited to `400GB/day`
-- [Offcloud](https://offcloud.com/) - cheapest plan: `$9.99/mo` longest plan: `$54.99/yr`
-- [put.io](https://put.io/) - cheapest plan: `$9.99/mo` longest plan: `$99/yr` `10/50/100` Active Torrents limited to `100GB/1TB/10TB` download
+- [AllDebrid](https://alldebrid.com/) - cheapest plan `€2.99/30d` limited to `1000` torrents
+- [Debrid-Link](https://debrid-link.com/) - cheapest plan `€3/15d` longest plan `€25/300d` limited to `400GB/day`
+- [Offcloud](https://offcloud.com/) - cheapest plan `$9.99/mo` longest plan `$54.99/yr`
+- [Premiumize](https://www.premiumize.me/) - cheapest plan `€9.99/mo` longest plan `€69.99/yr` limited to `1TB` download
+- [put.io](https://put.io/) - cheapest plan `$9.99/mo` longest plan `$99/yr` `10/50/100` Active Torrents limited to `100GB/1TB/10TB` download
+- [Real-Debrid](https://real-debrid.com/) - cheapest plan `€3/15d` longest plan `€16/180d` `42` Active Torrents `2TB` Per Torrent
 
 <details>
   <summary>Not yet verified</summary>
 
+  - [BestDebrid](https://bestdebrid.com/start)
+  - [Deepbrid](https://www.deepbrid.com/)
+  - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
   - [LinkSnappy](https://linksnappy.com/)
   - [premium.to](https://premium.to/)
   - [ProLeech](https://proleech.link/)
-  - [Deepbrid](https://www.deepbrid.com/)
-  - [Zevera](https://www.zevera.com/)
-  - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
-  - [BestDebrid](https://bestdebrid.com/start)
-  - [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
   - [TurkDown](https://turkdown.com/)
+  - [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
+  - [Zevera](https://www.zevera.com/)
 </details>
 
 ### Supports Torrent Only
-- [TorBox](https://torbox.app/) - cheapest plan: `$3/mo` longest plan: `$33/yr` `3/5/10` Active Torrents `100GB/500GB` Per Torrent
-- [PikPak](https://mypikpak.com/) - cheapest plan: `$6.3/mo` longest plan: `$63.99/yr` limited to `10TB` download
+- [TorBox](https://torbox.app/) - cheapest plan `$3/mo` longest plan `$33/yr` `3/5/10` Active Torrents `100GB/500GB` Per Torrent
+- [PikPak](https://mypikpak.com/) - cheapest plan `$6.3/mo` longest plan `$63.99/yr` limited to `10TB` download
 
 ### Supports One-Click Hosters Only
 <details>
   <summary>Not what we want, but sure...</summary>
 
-  - [Cooldebrid](https://cooldebrid.com/)
-  - [DebridItalia](https://www.debriditalia.com/)
-  - [Leechall](https://leechall.io/)
-  - [Grab8](https://www.grab8.com/)
-  - [SMOOZED](https://www.smoozed.biz/)
-  - [Simply Debrid](https://simply-debrid.com/)
   - [CboxEra](https://www.cboxera.com/)
-  - [NeoDebrid](https://neodebrid.com/main)
+  - [Cooldebrid](https://cooldebrid.com/)
   - [Daily Leech](https://dailyleech.com/)
-  - [MultiShare](https://www.multishare.cz/en/)
+  - [DebridItalia](https://www.debriditalia.com/)
+  - [Grab8](https://www.grab8.com/)
   - [Juba-Get](https://juba-get.com/)
+  - [Leechall](https://leechall.io/)
+  - [MultiShare](https://www.multishare.cz/en/)
+  - [NeoDebrid](https://neodebrid.com/main)
   - [RapidGrab](https://rapidgrab.ovh/)
+  - [Simply Debrid](https://simply-debrid.com/)
+  - [SMOOZED](https://www.smoozed.biz/)
 </details>
 
 ## *arr stack
-- [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
+- [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
 - [rdt-client](https://github.com/rogerfar/rdt-client) - Implements a fake qBittorrent API so you can hook up other applications like Sonarr, Radarr or Couchpotato
+- [Syncler](https://syncler.net/)
+- [Torrentio](https://torrentio.strem.fun/) - Used together with [Stremio](https://www.stremio.com/)
+- [wako](https://wako.app/)
 
 ## File system
-- [zurg](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
+- [zurg](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 
 ## Content Managers
 
 - [Debrid Media Manager](https://debridmediamanager.com/)
-- [Unchained](https://github.com/LivingWithHippos/unchained-android)
 - [Real Debrid Manager](https://rdm.ayush.gg/)
+- [Unchained](https://github.com/LivingWithHippos/unchained-android)
 
 ## Miscellaneous
 
