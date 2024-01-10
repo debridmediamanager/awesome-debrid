@@ -69,7 +69,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - [SMOOZED](https://www.smoozed.biz/)
 </details>
 
-## *arr stack
+## *Arr Stack
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
 - [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
 - [rdt-client](https://github.com/rogerfar/rdt-client) - Implements a fake qBittorrent API so you can hook up other applications like Sonarr, Radarr or Couchpotato
@@ -77,7 +77,8 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Torrentio](https://torrentio.strem.fun/) - Used together with [Stremio](https://www.stremio.com/)
 - [wako](https://wako.app/)
 
-## File system
+## File System
+- [rclone](https://github.com/rclone/rclone) - a command-line program to mount cloud storage providers to your computer (like Dropbox)
 - [rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
 - [zurg](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 
