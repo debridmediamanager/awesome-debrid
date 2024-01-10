@@ -8,11 +8,12 @@ A curated list of awesome debrid services that enhance your streaming and downlo
   - [Supports Torrent + One-Click Hosters](#supports-torrent--one-click-hosters)
   - [Supports Torrent Only](#supports-torrent-only)
   - [Supports One-Click Hosters Only](#supports-one-click-hosters-only)
-- [*arr Stack](#arr-stack)
+- [*Arr Stack](#arr-stack)
 - [File System](#file-system)
 - [Content Managers](#content-managers)
-- [Miscellaneous](#miscellaneous)
 - [Communities](#communities)
+- [Guides and Tutorials](#guides-and-tutorials)
+- [Miscellaneous](#miscellaneous)
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
@@ -88,15 +89,17 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Real Debrid Manager](https://rdm.ayush.gg/)
 - [Unchained](https://github.com/LivingWithHippos/unchained-android)
 
-## Miscellaneous
-
-- [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
-
 ## Communities
 
 - [Debrid Media Manager & zurg subreddit](https://www.reddit.com/r/debridmediamanager/)
 - [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
 - [plex_debrid Discord](https://discord.gg/gDvqjjD3)
+
+## Guides and Tutorials
+
+## Miscellaneous
+
+- [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
 
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
