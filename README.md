@@ -79,6 +79,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
 ## *Arr Stack
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
+- [pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of plex_debrid, zurg, and rclone
 - [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
 - [rdt-client](https://github.com/rogerfar/rdt-client) - Implements a fake qBittorrent API so you can hook up other applications like Sonarr, Radarr or Couchpotato
 - [Syncler](https://syncler.net/)
@@ -91,24 +92,21 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [zurg](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 
 ## Content Managers
-
 - [Debrid Media Manager](https://debridmediamanager.com/)
 - [Real Debrid Manager](https://rdm.ayush.gg/)
 - [Unchained](https://github.com/LivingWithHippos/unchained-android)
 
 ## Communities
-
 - [Debrid Media Manager & zurg subreddit](https://www.reddit.com/r/debridmediamanager/)
 - [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
 - [plex_debrid Discord](https://discord.gg/gDvqjjD3)
 - [ElfHosted Discord](https://discord.elfhosted.com)
 
 ## Guides and Tutorials
-
+- [A Sailarr’s Guide to Plex + Real-Debrid](https://bit.ly/puksthepirate)
 - [Streaming from Real-Debrid with Plex (*on ElfHosted*)](https://elfhosted.com/guides/media/stream-from-real-debrid-with-plex/)
 
 ## Miscellaneous
-
 - [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
 
 ## Contribution Guidelines
