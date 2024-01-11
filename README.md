@@ -32,7 +32,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 ### Supports Torrent + One-Click Hosters
 - [AllDebrid](https://alldebrid.com/) - cheapest plan `€2.99/30d` limited to `1000` torrents
 - [Debrid-Link](https://debrid-link.com/) - cheapest plan `€3/15d` longest plan `€25/300d` limited to `400GB/day`
-- [Offcloud](https://offcloud.com/) - cheapest plan `$9.99/mo` longest plan `$54.99/yr` lifetime plan (limited to 50 GB storage for non cached links) `$39.99` from affiliate lifetime plan `$299.99` from Offcloud
+- [Offcloud](https://offcloud.com/) - cheapest plan `$9.99/mo` longest plan `$54.99/yr` lifetime plan (limited to 50 GB cloud storage for non cached links) `$39.99` from affiliate lifetime plan `$299.99` from Offcloud
 - [Premiumize](https://www.premiumize.me/) - cheapest plan `€9.99/mo` longest plan `€69.99/yr` limited to `1TB` download
 - [put.io](https://put.io/) - cheapest plan `$9.99/mo` longest plan `$99/yr` `10/50/100` Active Torrents limited to `100GB/1TB/10TB` download
 - [Real-Debrid](https://real-debrid.com/) - cheapest plan `€3/15d` longest plan `€16/180d` `42` Active Torrents `2TB` Per Torrent
