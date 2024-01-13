@@ -2,6 +2,8 @@
 
 A curated list of awesome debrid services that enhance your streaming and downloading experience. These services have been personally tested and recommended for their quality, reliability, and range of features.
 
+Reddit community [r/awesomecommunity](https://www.reddit.com/r/awesomedebrid/)
+
 ## Contents
 - [awesome-debrid ](#awesome-debrid-)
   - [Contents](#contents)
