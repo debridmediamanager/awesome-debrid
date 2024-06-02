@@ -38,7 +38,6 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Premiumize](https://www.premiumize.me/) - cheapest plan `€9.99/mo` longest plan `€69.99/yr` limited to `1TB` download
 - [put.io](https://put.io/) - cheapest plan `$9.99/mo` longest plan `$99/yr` `10/50/100` Active Torrents limited to `100GB/1TB/10TB` download
 - [Real-Debrid](https://real-debrid.com/) - cheapest plan `€3/15d` longest plan `€16/180d` `42` Active Torrents `2TB` Per Torrent
-- [TorBox](https://torbox.app/) - **they have a free tier** cheapest plan `$3/mo` longest plan `$33/yr` `3/5/10` Active Torrents `200GB/500GB` Per Torrent
 
 <details>
   <summary>Not yet verified</summary>
@@ -53,6 +52,9 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
   - [Zevera](https://www.zevera.com/)
 </details>
+
+### Supports Torrent + Usenet
+- [TorBox](https://torbox.app/) - **they have a free tier** cheapest plan `$3/mo` longest plan `$33/yr` `3/5/10` Active Torrents `200GB/500GB` Per Torrent
 
 ### Supports Torrent Only
 - [PikPak](https://mypikpak.com/) - cheapest plan `$6.3/mo` longest plan `$63.99/yr` limited to `10TB` download
