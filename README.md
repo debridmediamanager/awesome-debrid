@@ -23,9 +23,9 @@ A curated list of awesome debrid services that enhance your streaming and downlo
   - [License](#license)
 
 ## What is a Debrid service?
-**Before:** Debrid services are web apps that provide premium access to multiple file hosts (or one-click hosters). This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions. They are also referred to as multi one-click hosters (MOCH).
+**Before:** Debrid services are web apps that provide premium access to multiple file hosts (or one-click hosters, OCH). This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions. They are also referred to as multi one-click hosters (MOCH).
 
-**Now:** Debrid services are becoming more and more popular lately because of being able to instantly download torrents and providing an HTTPS (!) link to download or stream it. The concept is similar to a shared [seedbox](https://en.wikipedia.org/wiki/Seedbox). The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.net/) content and it supports streaming a la Netflix. Other Debrid services like Real-Debrid also supports video transcoding without any additional fees.
+**Now:** Apart from being able to download from OCH, Debrid services are becoming more and more popular lately because of being able to instantly finish downloading a torrent and providing an HTTPS (!) link to download or stream a video inside it. The concept is similar to a shared torrent [seedbox](https://en.wikipedia.org/wiki/Seedbox) although not all Debrid services support seeding. The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.net/) content and it supports streaming a la Netflix. Other Debrid services like Real-Debrid also supports video transcoding without any additional fees.
 
 Downloading via a HTTPS link with a Debrid service provides enhanced security, as the encryption of the download URL ensures that the specifics of what you are downloading remain hidden from anyone monitoring the network. A VPN is not required unless the website is compromised for a [man-in-the-middle (MiTM) attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack).
 
@@ -38,7 +38,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Premiumize](https://www.premiumize.me/) - cheapest plan `€9.99/mo` longest plan `€69.99/yr` limited to `1TB` download
 - [put.io](https://put.io/) - cheapest plan `$9.99/mo` longest plan `$99/yr` `10/50/100` Active Torrents limited to `100GB/1TB/10TB` download
 - [Real-Debrid](https://real-debrid.com/) - cheapest plan `€3/15d` longest plan `€16/180d` `42` Active Torrents `2TB` Per Torrent
-- [TorBox](https://torbox.app/) - cheapest plan `$3/mo` longest plan `$33/yr` `3/5/10` Active Torrents `200GB/500GB` Per Torrent
+- [TorBox](https://torbox.app/) - **they have a free tier** cheapest plan `$3/mo` longest plan `$33/yr` `3/5/10` Active Torrents `200GB/500GB` Per Torrent
 
 <details>
   <summary>Not yet verified</summary>
