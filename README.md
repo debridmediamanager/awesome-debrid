@@ -14,6 +14,8 @@ A curated list of awesome debrid services that enhance your streaming and downlo
     - [Supports One-Click Hosters Only](#supports-one-click-hosters-only)
     - [Hosting Providers (VPS, Seedbox..)](#hosting-providers-vps-seedbox)
   - [\*Arr Stack](#arr-stack)
+  - [Kodi Addons](#kodi-addons)
+  - [Stremio Addons](#stremio-addons)
   - [File System](#file-system)
   - [Content Managers](#content-managers)
   - [Communities](#communities)
@@ -89,6 +91,10 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Syncler](https://syncler.net/)
 - [Torrentio](https://torrentio.strem.fun/) - Used together with [Stremio](https://www.stremio.com/)
 - [wako](https://wako.app/)
+
+## Kodi Addons
+
+## Stremio Addons
 
 ## File System
 - [rclone](https://github.com/rclone/rclone) - a command-line program to mount cloud storage providers to your computer (like Dropbox)
