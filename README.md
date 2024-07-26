@@ -44,7 +44,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 <details>
   <summary>Not yet verified</summary>
 
-  - [BestDebrid](https://bestdebrid.com/start)
+  - [BestDebrid](https://bestdebrid.com/)
   - [Deepbrid](https://www.deepbrid.com/)
   - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
   - [LinkSnappy](https://linksnappy.com/)
@@ -56,7 +56,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 </details>
 
 ### Supports Torrent + Usenet
-- [TorBox](https://torbox.app/) - **they have a free tier** cheapest plan `$3/mo` longest plan `$33/yr` `3/5/10` Active Torrents `200GB/500GB` Per Torrent
+- [TorBox](https://torbox.app/) - **they have a free tier** cheapest plan `$3/mo` longest plan `$33/yr` `1/3/5/10` Active Torrents `10GB/200GB/500GB` Per Torrent
 
 ### Supports Torrent Only
 - [PikPak](https://mypikpak.com/) - cheapest plan `$6.3/mo` longest plan `$63.99/yr` limited to `10TB` download
@@ -81,7 +81,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
 ### Hosting Providers (VPS, Seedbox..)
 
-* [ElfHosted](https://elfhosted.com) - Plex+Zurg+plex_debrid ["Infinite Streaming"](https://store.elfhosted.com/product/infinite-real-debrid-plex-streaming-bundle) for `$0.90/day or $19/month`
+* [ElfHosted](https://elfhosted.com) - Plex+Zurg+plex_debrid ["Infinite Streaming"](https://store.elfhosted.com/product/bundle-plex-infinite-streaming-starter-kit) for `$29/month`
 
 ## *Arr Stack
 - [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
