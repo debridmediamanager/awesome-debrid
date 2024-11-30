@@ -84,9 +84,9 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 * [ElfHosted](https://elfhosted.com) - Plex+Zurg+plex_debrid ["Infinite Streaming"](https://store.elfhosted.com/product/bundle-plex-infinite-streaming-starter-kit) for `$29/month`
 
 ## *Arr Stack
-- [iceberg](https://github.com/dreulavelle/iceberg) - an up and coming plex_debrid rewrite
+- [riven](https://github.com/rivenmedia/riven) - plex_debrid rewrite
 - [pd_zurg](https://github.com/I-am-PUID-0/pd_zurg) - A combined docker image for the unified deployment of plex_debrid, zurg, and rclone
-- [plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
+- [plex_debrid](https://github.com/itsToggle/plex_debrid) - [archived] Plex/Emby/Jellyfin/Infuse torrent streaming through Debrid Services, using Plex Discover Watchlists, Trakt lists and Overseerr. Using content services like plex discover, trakt and overseerr, your personal media server users can add movies/shows to their watchlist and they become available to stream in seconds.
 - [rdt-client](https://github.com/rogerfar/rdt-client) - Implements a fake qBittorrent API so you can hook up other applications like Sonarr, Radarr or Couchpotato
 - [Syncler](https://syncler.net/)
 - [Torrentio](https://torrentio.strem.fun/) - Used together with [Stremio](https://www.stremio.com/)
