@@ -103,6 +103,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
 ## Content Managers
 - [Debrid Media Manager](https://debridmediamanager.com/)
+- [Debrify](https://github.com/varunsalian/debrify) - Cross-platform debrid manager for Real-Debrid, Torbox, and PikPak. Stream and download on Android & Android TV.
 - [Real Debrid Manager](https://rdm.ayush.gg/)
 - [Unchained](https://github.com/LivingWithHippos/unchained-android)
 
