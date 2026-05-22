@@ -52,7 +52,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Cocoleech](https://cocoleech.com/) - `$9.99/30d` `$24.99/3mo` `$59.99/yr` — torrents, Usenet, OCH, includes VPN. Accepts crypto, PayPal, Paysafecard.
 - [DASAN](https://dasan.co) - unique pay-per-GB model from `$2.99` — torrents, Usenet, OCH (40+ hosts), 600 video sites. Servers in DE/FI.
 - [Debrid-Link](https://debrid-link.com/) - cheapest plan `€3/15d` longest plan `€25/300d` limited to `400GB/day`
-- [Furk.net](https://furk.net) - `€9.90-€14.90/mo` — torrents, Usenet, streaming. Operating since 2009. Built-in player.
+- ~~[Furk.net](https://furk.net)~~ - `€9.90-€14.90/mo` — torrents, Usenet, streaming. Operating since 2009. Built-in player. ⚠️ Site unreachable (May 2026).
 - [High-Way](https://high-way.me/) - from `€5.99` (Free/Premium/Unlimited/Volume tiers) — torrents (added May 2026), Usenet, OCH, TV recording. German-language community (11,520 members).
 - [Mega-Debrid](https://mega-debrid.eu/) - `~€4/mo` — torrents, OCH (135+ hosts). Good RapidGator support.
 - [Offcloud](https://offcloud.com/) - cheapest plan `$9.99/mo` longest plan `$54.99/yr` lifetime plan (limited to 50 GB cloud storage for non cached links) `$39.99` from affiliate lifetime plan `$299.99` from Offcloud
@@ -61,22 +61,20 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Real-Debrid](https://real-debrid.com/) - cheapest plan `€3/15d` longest plan `€16/180d` `42` Active Torrents `2TB` Per Torrent
 - [RPNet](https://premium.rpnet.biz) - `$7.50/mo` — OCH, torrent, VPN. Acquired by Premiumize 2022.
 - [TransferCloud](https://transfercloud.io) - free 1.5GB / `$3.99-$12.79/mo` — torrents, Usenet, OCH, video. Transfers to GDrive/Dropbox/OneDrive.
+- [Boxbit.app](https://boxbit.app) - from `€9.99/mo` — torrents, OCH (35+ hosts incl. K2S). Good for hosters RD doesn't cover.
+- [Deepbrid](https://www.deepbrid.com/) - `€4.99/30d` `€12.99/90d` `€32.99/yr` — torrents, Usenet, OCH (80+ hosts). Free tier (5 links/day). 10Gbps, built-in streaming.
+- [Fakir Debrid](https://fakirdebrid.net/) - `$13/30d` `$31/90d` `$85/yr` — OCH (100+ hosts), torrents. Best for niche hosters (Filejoker, K2S, DepositFiles). Torrents are zipped and password-protected. 4.1/5 Trustpilot.
+- [LinkSnappy](https://linksnappy.com/) - `$12.99/30d` `$29.99/90d` `$54.99/180d` — OCH (~17 active hosts), disputed torrent support. 250GB/day limit. Mixed reviews (3.6/5).
+- [premium.to](https://premium.to/) - volume-based `€5/125GB` `€10/300GB` `€25/850GB` (no expiration) — torrents, Usenet, OCH (~11 hosts). Niche, German-speaking community. Bitcoin accepted.
+- [ProLeech](https://proleech.link/) - `~€7.60/30d` `€20/90d` `€61/yr` — OCH (50+ hosts), torrents. Android app, browser extensions. Mixed reviews (2.1/5).
+- ~~[EasyDebrid](https://easydebrid.com/)~~ - abandoned/defunct. Was `~$4.50/mo`. Widely warned against on Reddit. Attempted rebrand to Debrider failed.
+- ~~[Debrider](https://debrider.app)~~ - EasyDebrid rebrand. Both services abandoned as of early 2026. Avoid.
 
 <details>
   <summary>Not yet verified</summary>
 
-  - [BestDebrid](https://bestdebrid.com/)
-  - [Boxbit.app](https://boxbit.app) - from `€9.99/mo` — torrent, OCH (36+ hosts)
-  - [Debrider](https://debrider.app) - EasyDebrid rebrand/successor. Accounts migrating. Integrated into Kodi POV addon.
-  - [Deepbrid](https://www.deepbrid.com/)
-  - [EasyDebrid](https://easydebrid.com/) - `~€4.50/mo` `€40/yr` — torrents, Usenet, OCH. Launched Nov 2024. Built on Premiumize infrastructure. Widely warned against on Reddit. Migrating to Debrider.
-  - [Fakir Debrid](https://fakirdebrid.net/) - all downloaded torrents are zipped and password-protected
-  - [LinkSnappy](https://linksnappy.com/)
-  - [premium.to](https://premium.to/)
-  - [ProLeech](https://proleech.link/)
-  - [TurkDown](https://turkdown.com/)
-  - [UploadedPremiumLink](https://www.uploadedpremiumlink.net/)
-  - [Zevera](https://www.zevera.com/)
+  - [BestDebrid](https://bestdebrid.com/) - `€5/31d` `€45/yr` — torrents, OCH (57+ hosts). Free tier available. ⚠️ Low trust score (22/100), scam reports on Reddit.
+  - [Zevera](https://www.zevera.com/) - `~$12.99/mo` (pricing behind login) — torrents, OCH. ⚠️ 1.2/5 Trustpilot (137 reviews), not in major comparison guides.
 </details>
 
 ### Supports Torrent + Usenet
@@ -97,8 +95,8 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
   - [SonicBit](https://sonicbit.net) - free 4GB + premium
   - [TorrentSafe](https://torrentsafe.com)
-  - [CloudPipe](https://cloudpipe.io) - fetches to Google Drive
-  - [ByteBx](https://bytebx.com)
+  - ~~[CloudPipe](https://cloudpipe.io)~~ - fetches to Google Drive. ⚠️ Dead.
+  - ~~[ByteBx](https://bytebx.com)~~ - ⚠️ Dead.
 </details>
 
 ### Supports One-Click Hosters Only
@@ -108,26 +106,26 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - [CboxEra](https://www.cboxera.com/)
   - [Cooldebrid](https://cooldebrid.com/)
   - [Daily Leech](https://dailyleech.com/)
-  - [Ddebrid/Filemium](https://ddebrid.com) - redirects to Filemium. French.
+  - ~~[Ddebrid/Filemium](https://ddebrid.com)~~ - redirects to Filemium. French. ⚠️ Dead.
   - [DebridItalia](https://www.debriditalia.com/)
-  - [Debrid.xyz](https://debrid.xyz) - 40 hosts. Spain-based.
-  - [EasyBytez](https://easybytez.com)
-  - [Grab8](https://www.grab8.com/)
+  - ~~[Debrid.xyz](https://debrid.xyz)~~ - 40 hosts. Spain-based. ⚠️ Dead.
+  - ~~[EasyBytez](https://easybytez.com)~~ - ⚠️ Dead.
+  - ~~[Grab8](https://www.grab8.com/)~~ - ⚠️ Dead.
   - [Juba-Get](https://juba-get.com/)
   - [Leechall](https://leechall.io/)
-  - [Linkifier](https://linkifier.com) - `$9.99/mo`, 9+ major hosts
+  - ~~[Linkifier](https://linkifier.com)~~ - `$9.99/mo`, 9+ major hosts. ⚠️ Dead.
   - [MultiDebrid](https://multidebrid.com) - 100+ hosts, no bandwidth limits claimed
   - [MultiShare](https://www.multishare.cz/en/)
   - [MyDebrid](https://mydebrid.com/) - `$9/mo`, 30+ hosters
   - [NeoDebrid](https://neodebrid.com/main)
   - [OnlyDebrid](https://onlydebrid.com) - `$6.99/yr`, 50+ hosts. Very cheap.
-  - [Prem.link](https://prem.link) - cloud storage + debrid
+  - ~~[Prem.link](https://prem.link)~~ - cloud storage + debrid. ⚠️ Domain hijacked.
   - [Prembox](https://prembox.com) - pay-per-package, 40+ hosts. Since 2011.
   - [RapidGrab](https://rapidgrab.ovh/)
   - ~~[Simply Debrid](https://simply-debrid.com/)~~ - pivoted to generic video downloader, no longer a debrid service
   - [Simply-Premium](https://simply-premium.com) - from `€5.83/mo`, 7-13 hosts + Usenet. Since 2009.
   - ~~[SMOOZED](https://www.smoozed.biz/)~~ - flagged as scam on GitHub/Tarnkappe.info
-  - [Superloading](https://superloading.com) - 24 hosts
+  - ~~[Superloading](https://superloading.com)~~ - 24 hosts. ⚠️ Dead.
   - [Vecwire](https://get.vecwire.com) - free (5/day) + premium, 12 hosts
 </details>
 
@@ -152,10 +150,10 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 <details>
   <summary>Czech Republic 🇨🇿</summary>
 
-  - [Superload.cz](https://superload.cz) - partners with Webshare, Fastshare, Edisk, Turbobit
+  - ~~[Superload.cz](https://superload.cz)~~ - partners with Webshare, Fastshare, Edisk, Turbobit. ⚠️ Dead (410 Gone).
   - [Esoubory.cz](https://esoubory.cz) - JDownloader support
-  - [Stahomat.cz](https://stahomat.cz)
-  - [Multishare.cz](https://multishare.cz) - JDownloader + pyLoad support
+  - ~~[Stahomat.cz](https://stahomat.cz)~~ - ⚠️ Dead.
+  - ~~[Multishare.cz](https://multishare.cz)~~ - JDownloader + pyLoad support. ⚠️ Dead.
 </details>
 
 <details>
@@ -163,19 +161,19 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
   - [Baixarpremium.net](https://baixarpremium.net)
   - [Conexaomega.com](https://conexaomega.com)
-  - [Megarapido.net](https://megarapido.net)
-  - [Multivip.net](https://multivip.net)
-  - [Superdown.com.br](https://superdown.com.br) - JDownloader support
+  - ~~[Megarapido.net](https://megarapido.net)~~ - ⚠️ Dead.
+  - ~~[Multivip.net](https://multivip.net)~~ - ⚠️ Dead.
+  - ~~[Superdown.com.br](https://superdown.com.br)~~ - JDownloader support. ⚠️ Dead.
 </details>
 
 <details>
   <summary>Other Regional</summary>
 
-  - [Fastix.ru](https://fastix.ru) 🇷🇺 - JDownloader support
+  - ~~[Fastix.ru](https://fastix.ru) 🇷🇺~~ - JDownloader support. ⚠️ Dead.
   - [Transload.me](https://transload.me) 🇷🇺 - primary Russian debrid
   - [Linksvip.net](https://linksvip.net) 🇻🇳
-  - [TotalDebrid](https://totaldebrid.org) 🇫🇷
-  - [Abracadebrid](https://abracadebrid.com) 🇫🇷
+  - ~~[TotalDebrid](https://totaldebrid.org) 🇫🇷~~ - ⚠️ Dead.
+  - ~~[Abracadebrid](https://abracadebrid.com) 🇫🇷~~ - ⚠️ Dead (410 Gone).
 </details>
 
 ### Chinese Cloud Torrent Services
@@ -207,18 +205,20 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
   - [MixDebrid](https://mixdebrid.com) - 100+ hosts
   - [DebridLeech](https://debridleech.com) - 200+ hosts
   - [PrimeLeech](https://primeleech.com) - 220+ hosts
-  - [Prem](https://prem.link) - 80+ hosts, one of the largest free
+  - ~~[Prem](https://prem.link)~~ - 80+ hosts. ⚠️ Domain hijacked (redirects to survey-smiles.com).
   - [JetLeech](https://jetleech.net) - 42 hosts, 1GB, 40/day
-  - [BackupPremium](https://backuppremium.com) - 50+ hosts
-  - [GigaLeecher](https://gigaleecher.com) - 6+ hosts
+  - ~~[BackupPremium](https://backuppremium.com)~~ - 50+ hosts. ⚠️ Dead.
+  - ~~[GigaLeecher](https://gigaleecher.com)~~ - 6+ hosts. ⚠️ Dead.
   - [Leech Space](https://leech.space) - directory/PLG
   - [LeechNinja](https://leechninja.com) - K2S, NitroFlare, Uploaded
-  - [Uppremium](https://uppremium.link) - 50+ hosts, 5GB, 5/day
+  - [TurkDown](https://turkdown.com) - 33 hosts, free, torrent section. Hoster list outdated (includes defunct hosts).
+  - [UploadedPremiumLink](https://www.uploadedpremiumlink.net) - 7 hosts (Mega, Uploaded, K2S, etc.), free ad-supported. IP-locked links.
+  - ~~[Uppremium](https://uppremium.link)~~ - 50+ hosts, 5GB, 5/day. ⚠️ Dead.
 </details>
 
 ### Hosting Providers (VPS, Seedbox..)
 
-* [ElfHosted](https://elfhosted.com) - Plex+Zurg+plex_debrid ["Infinite Streaming"](https://store.elfhosted.com/product/bundle-plex-infinite-streaming-starter-kit) for `$29/month`
+* [ElfHosted](https://store.elfhosted.com) - Plex+Zurg+plex_debrid ~~["Infinite Streaming"](https://store.elfhosted.com/product/bundle-plex-infinite-streaming-starter-kit)~~ bundle discontinued
 
 ## *Arr Stack & Automation
 - [rdt-client](https://github.com/rogerfar/rdt-client) - (1,491★) Drop-in torrent client replacement for *arr. Implements a fake qBittorrent API so you can hook up Sonarr, Radarr or Couchpotato.
@@ -246,11 +246,11 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - [Deflix](https://github.com/doingodswork/deflix-stremio) - (184★) Multiple sources (YTS, TPB, RARBG, 1337x, ibit). Go-based. Supports RD, AD.
 - [Debrid Search](https://github.com/MrMonkey42/stremio-addon-debrid-search) - (143★) Searches downloads and torrents already in your debrid cloud. Supports RD, AD, TorBox.
 - [Jackettio](https://github.com/arvida42/jackettio) - (114★) Resolves streams using Jackett + debrid. Private tracker integration. Supports RD, AD, PM, TB, DL.
-- [Usenet-Ultimate](https://github.com/wjhrdy/usenet-ultimate) - (112★) Newznab/NZBHydra2 Usenet addon.
-- [DebridUI](https://github.com/debridui/debridui) - (85★) Web-based debrid client. Supports RD, TorBox.
+- ~~[Usenet-Ultimate](https://github.com/wjhrdy/usenet-ultimate)~~ - (112★) Newznab/NZBHydra2 Usenet addon. ⚠️ Repo deleted.
+- ~~[DebridUI](https://github.com/debridui/debridui)~~ - (85★) Web-based debrid client. Supports RD, TorBox. ⚠️ Repo deleted.
 - [Orion](https://orionoid.com) - (85★) Orionoid meta-indexer.
-- [Frenchio](https://github.com/Frenchio/frenchio) - (60★) French private trackers (UNIT3D, Sharewood, YGG). AllDebrid.
-- [YARR!](https://github.com/yarr-addon/yarr) - (45★) 60+ torrent sources.
+- ~~[Frenchio](https://github.com/Frenchio/frenchio)~~ - (60★) French private trackers (UNIT3D, Sharewood, YGG). AllDebrid. ⚠️ Repo deleted.
+- ~~[YARR!](https://github.com/yarr-addon/yarr)~~ - (45★) 60+ torrent sources. ⚠️ Repo deleted.
 - [StreamFusion](https://github.com/LimeHubs/stream-fusion) - (45★) French-optimized. Jackett+YGG+Zilean.
 - [Barestreams](https://github.com/barestreams/barestreams) - (38★) Lightweight normalized streams.
 - [Davio](https://github.com/arvida42/davio) - WebDAV source resolver. By Jackettio dev. Supports RD, DL, seedboxes.
@@ -261,7 +261,7 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - Meteor - Multi-indexer scraper.
 - Sootio - AI semantic matching. Supports RD, AD, Offcloud.
 - Peerflix - Spanish/English. Hosted. Supports RD, PM, AD, DL, OC, put.io, TB.
-- [UsenetStreamer](https://github.com/usenetstreamer/usenetstreamer) - Usenet streaming via Easynews.
+- ~~[UsenetStreamer](https://github.com/usenetstreamer/usenetstreamer)~~ - Usenet streaming via Easynews. ⚠️ Repo deleted.
 
 ### Stremio Addons — Regional & Niche
 - MammaMia - (154★) Italian. Direct HTTPS (no debrid).
@@ -284,7 +284,7 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - FilmWhisper - AI movie/show recommendations
 - Xtremio - M3U/XTREAM IPTV playlists
 - DMM Cast - Cast/stream DMM library. RD/AD/TB.
-- [Nuvio](https://nuvio.app) - Stremio replacement platform. Native TorBox.
+- ~~[Nuvio](https://nuvio.app)~~ - Stremio replacement platform. Native TorBox. ⚠️ Dead (domain for sale).
 
 ## Kodi Addons
 - [MediaFusion](https://github.com/mhdzumair/MediaFusion) - (859★) Universal. Also works with Stremio. Supports RD, AD, PM, TB, DL, OC.
@@ -331,7 +331,7 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 ## Streaming Apps
 - [Seanime](https://github.com/5rahim/seanime) - (3,604★) Anime/manga media server. Desktop+Web. Supports RD, TorBox.
 - [Debrify](https://github.com/varunsalian/debrify) - (292★) Unified debrid manager+Trakt. Flutter. All platforms.
-- [Lumera](https://github.com/lumeraapp/lumera) - (193★) Android TV. Consumes Stremio addons without Stremio.
+- ~~[Lumera](https://github.com/lumeraapp/lumera)~~ - (193★) Android TV. Consumes Stremio addons without Stremio. ⚠️ Repo deleted.
 - [Ferrite](https://github.com/Ferrite-iOS/Ferrite) - (188★) iOS. Media search engine + RD.
 - PlayTorrio - Flutter. libtorrent 2.0. Stremio addons, IPTV, manga, audiobooks. RD+TorBox. 2+ yrs dev.
 - DebridStream - Android/ATV. Netflix-like. v3. Multi-debrid. Profiles+PIN. r/Debrid_Stream_App.
@@ -359,11 +359,11 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 
 ## Download Managers
 - [pyLoad](https://github.com/pyload/pyload) - (3,777★) Download manager with 100+ host plugins. Multihoster support.
-- [TorrentDownloaderRD](https://github.com/torrentdownloaderrd/torrentdownloaderrd) - (61★) RD/AD searcher+downloader. Desktop.
-- [AllDebrid-Watcher](https://github.com/alldebrid-watcher/alldebrid-watcher) - (52★) Monitors+downloads AD transfers automatically.
-- [DebridDownloader](https://github.com/debriddownloader/debriddownloader) - (49★) Open-source desktop downloader.
+- ~~[TorrentDownloaderRD](https://github.com/torrentdownloaderrd/torrentdownloaderrd)~~ - (61★) RD/AD searcher+downloader. Desktop. ⚠️ Repo deleted.
+- ~~[AllDebrid-Watcher](https://github.com/alldebrid-watcher/alldebrid-watcher)~~ - (52★) Monitors+downloads AD transfers automatically. ⚠️ Repo deleted.
+- ~~[DebridDownloader](https://github.com/debriddownloader/debriddownloader)~~ - (49★) Open-source desktop downloader. ⚠️ Repo deleted.
 - [OneDL](https://github.com/ellite/OneDL) - (39★) Universal CLI downloader — torrents, hosters, MEGA, HTTP(S). Supports RD, AD, Premiumize, TorBox, DebridLink.
-- [Mediarr](https://github.com/mediarr/mediarr) - (8★) Windows CLI. RD+IMDb+TVMaze+DMM+MPV.
+- ~~[Mediarr](https://github.com/mediarr/mediarr)~~ - (8★) Windows CLI. RD+IMDb+TVMaze+DMM+MPV. ⚠️ Repo deleted.
 - [LazyDebrid](https://onurhanak.github.io/lazydebrid/) - Terminal-based interface for managing RD torrents/downloads.
 - Mipony - Download manager with multihoster integration.
 
@@ -404,16 +404,16 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - deflix pkg/debrid - Go. RD/AD/PM.
 
 ## Deployment Stacks
-- [sailarr-installer](https://github.com/sailarr-installer/sailarr-installer) - (76★) Sailarr's Guide stack installer.
+- ~~[sailarr-installer](https://github.com/sailarr-installer/sailarr-installer)~~ - (76★) Sailarr's Guide stack installer. ⚠️ Repo deleted.
 - [Naralux/mediacenter](https://github.com/Naralux/mediacenter) - (39★) RD+*Arr infinite streaming docker-compose.
 - Surge - (33★) Automated deployment with Decypharr.
-- [TorBox-Media-Server](https://github.com/TorBox-Media-Server/TorBox-Media-Server) - (21★) Zero-local-storage. TorBox WebDAV+Docker.
+- ~~[TorBox-Media-Server](https://github.com/TorBox-Media-Server/TorBox-Media-Server)~~ - (21★) Zero-local-storage. TorBox WebDAV+Docker. ⚠️ Repo deleted.
 - debrid-umbrel-app-store - Debrid apps for Umbrel.
 - Maestro - (0★) MCP server: AI controls Stremio+RD. Pre-release.
 
 ## Comparison & Reference
 - [Debrid Services Comparison](https://github.com/fynks/debrid-services-comparison) - (465★) Interactive web app comparing pricing, features, and 250+ supported hosts across all debrid services. [debridcompare.pages.dev](https://debridcompare.pages.dev)
-- [stremio-addons-list](https://github.com/stremio-addons-list/stremio-addons-list) - (1,100★) Community addon list.
+- ~~[stremio-addons-list](https://github.com/stremio-addons-list/stremio-addons-list)~~ - (1,100★) Community addon list. ⚠️ Repo deleted.
 - [StreamStack](https://streamstack.media) - 20+ apps compared, Plex/Kodi/TorBox/Infuse guides.
 - [Savvy Guides](https://savvyguides.wiki) - Sailarr's Guide, Zurg, recommendations.
 - [stremio-addons.net](https://stremio-addons.net) - Addon directory.
