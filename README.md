@@ -11,10 +11,12 @@ A curated list of awesome debrid services that enhance your streaming and downlo
   - [Supports Torrent + Usenet](#supports-torrent--usenet)
   - [Supports Torrent Only](#supports-torrent-only)
   - [Cloud Torrent Services](#cloud-torrent-services)
+  - [Torrent-to-DDL Converters](#torrent-to-ddl-converters)
   - [Supports One-Click Hosters Only](#supports-one-click-hosters-only)
   - [Regional Multihosters](#regional-multihosters)
   - [Chinese Cloud Torrent Services](#chinese-cloud-torrent-services)
   - [Free Premium Link Generators](#free-premium-link-generators)
+  - [Self-Hosted Cloud Torrent](#self-hosted-cloud-torrent)
   - [Hosting Providers (VPS, Seedbox..)](#hosting-providers-vps-seedbox)
 - [\*Arr Stack & Automation](#arr-stack--automation)
 - [Stremio Addons](#stremio-addons)
@@ -69,6 +71,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [ProLeech](https://proleech.link/) - `~€7.60/30d` `€20/90d` `€61/yr` — OCH (50+ hosts), torrents. Android app, browser extensions. Mixed reviews (2.1/5).
 - ~~[EasyDebrid](https://easydebrid.com/)~~ - abandoned/defunct. Was `~$4.50/mo`. Widely warned against on Reddit. Attempted rebrand to Debrider failed.
 - ~~[Debrider](https://debrider.app)~~ - EasyDebrid rebrand. Both services abandoned as of early 2026. Avoid.
+- [BOBY](https://boby.sh) - unknown pricing — multi-protocol debrid. Listed on FMHY. Newer service.
 
 <details>
   <summary>Not yet verified</summary>
@@ -87,17 +90,32 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 - [Seedr](https://seedr.cc) - free 2GB / from `$3.95/mo` — Chrome extension, in-browser streaming. Very popular.
 - [ZbigZ](https://zbigz.com) - free + premium — browser-based torrent downloader.
 - [Bitport.io](https://bitport.io) - subscription — virus scanning, Google Drive sync.
-- [Webtor.io](https://webtor.io) - free, no registration — browser-based torrent streaming.
 - [ApexDrive](https://newapexdrive.com) - freemium — Singapore-based. Android/iOS/Web.
+- [Torcomet](https://torcomet.com) - free 2GB / `$5.99/mo` (100GB) / `$9.99/mo` (500GB) — 4.5/5 Trustpilot. Upload .torrent or magnet → download via HTTPS.
+- [MultCloud](https://www.multcloud.com) - free 2TB transfer / from `$8.30/mo` — "Remote Upload" accepts magnets/.torrent → downloads to 30+ cloud services (GDrive/Dropbox/MEGA/OneDrive).
+- [FilePax](https://filepax.net) - 6GB free trial, up to 10TB premium — PikPak-adjacent (PaxCloud Limited). Korean landing page. WebDAV, Telegram bot, auto video transcoding.
+- [Megabox](https://megabox.me) - free 2GB (100KB/s cap) / `$10.99/mo` (100GB) / `$19.90/mo` (300GB) — cloud torrent with video/music streaming.
 
 <details>
   <summary>More cloud torrent services</summary>
 
   - [SonicBit](https://sonicbit.net) - free 4GB + premium
+  - [SonicSeedBox](https://sonicseedbox.com) - paid — "New Generation of Torrent Cloud." Converts torrents to HTTPS DDL. Multiple server locations.
+  - [MaxCloudBox](https://maxcloudbox.com) - unknown pricing — cloud torrent, seedbox alternative.
+  - [TorSnatch](https://torsnatch.com) - free, 25 Gbps claimed — redirects to SonicBit mobile apps.
   - [TorrentSafe](https://torrentsafe.com)
   - ~~[CloudPipe](https://cloudpipe.io)~~ - fetches to Google Drive. ⚠️ Dead.
   - ~~[ByteBx](https://bytebx.com)~~ - ⚠️ Dead.
+  - ~~[FileStream.me](https://filestream.me)~~ - ⚠️ Dead.
+  - ~~[Fuge.it](https://fuge.it)~~ - ⚠️ Dead (410 Gone).
 </details>
+
+### Torrent-to-DDL Converters
+- [Webtor.io](https://webtor.io) - free, open source, no registration — browser-based torrent streaming. Self-hostable.
+- [Instant.io](https://instant.io) - free — WebTorrent protocol. Peer-to-peer in-browser streaming. Open source.
+- [Direct-Torrents](https://direct-torrents.com) - free (ad-supported) — converts torrent/magnet to DDL. No sign-up.
+- [DirectTorrent.me](https://directtorrent.me) - free — torrent-to-DDL converter.
+- [Bitso.ir](https://bitso.ir) - unknown — Iranian service. Converts torrents to direct links for online viewing.
 
 ### Supports One-Click Hosters Only
 <details>
@@ -144,7 +162,12 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - RapidTraffic.pl
   - [Rapidox.pl](https://rapidox.pl)
   - [Turbix.pl](https://turbix.pl)
+  - [Pobierz.biz](https://pobierz.biz)
+  - [Xt7.pl](https://xt7.pl)
+  - [RapidGrab.pl](https://rapidgrab.pl)
   - TwojPlik.to
+  - ~~Fastfiles.pl~~ - ⚠️ Dead.
+  - ~~Easyfiles.pl~~ - ⚠️ Dead.
 </details>
 
 <details>
@@ -161,9 +184,14 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
 
   - [Baixarpremium.net](https://baixarpremium.net)
   - [Conexaomega.com](https://conexaomega.com)
+  - [SuperLinksBR](https://superlinksbr.com) - 20+ hosts. From R$7.90.
+  - [Contas Turbo](https://contasturbo.com) - 20+ servers.
+  - [Libera Premium](https://liberapremium.com) - from R$3.99/day.
+  - [JubaGet](https://jubaget.com) - free premium link generator.
   - ~~[Megarapido.net](https://megarapido.net)~~ - ⚠️ Dead.
   - ~~[Multivip.net](https://multivip.net)~~ - ⚠️ Dead.
   - ~~[Superdown.com.br](https://superdown.com.br)~~ - JDownloader support. ⚠️ Dead.
+  - ~~[Links Premium](https://linkspremium.com.br)~~ - ⚠️ Dead.
 </details>
 
 <details>
@@ -172,8 +200,13 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - ~~[Fastix.ru](https://fastix.ru) 🇷🇺~~ - JDownloader support. ⚠️ Dead.
   - [Transload.me](https://transload.me) 🇷🇺 - primary Russian debrid
   - [Linksvip.net](https://linksvip.net) 🇻🇳
+  - [Fshare](https://fshare.vn) 🇻🇳 - #1 Vietnamese file hosting. FPT Telecom-owned. VIP from `$2.40/mo`.
+  - [4share.vn](https://4share.vn) 🇻🇳 - Vietnamese file sharing.
+  - [Coc Coc Browser](https://coccoc.com) 🇻🇳 - only Asian browser with native torrent downloading built in.
   - ~~[TotalDebrid](https://totaldebrid.org) 🇫🇷~~ - ⚠️ Dead.
   - ~~[Abracadebrid](https://abracadebrid.com) 🇫🇷~~ - ⚠️ Dead (410 Gone).
+  - ~~[ExtreamRapid](https://extreamrapid.com)~~ - ⚠️ Dead.
+  - ~~[Tenlua](https://tenlua.vn) 🇻🇳~~ - ⚠️ Dead.
 </details>
 
 ### Chinese Cloud Torrent Services
@@ -184,12 +217,13 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
   <summary>Chinese services</summary>
 
   - [115](https://115.com) - 5-40TB, `~$14-70/yr` — "King of offline downloads." Best rare torrent success rate. Needs Chinese phone.
-  - [Xunlei Cloud](https://pan.xunlei.com) - 12TB, `$25-37/yr` — China's largest P2P network. **PikPak's parent company.**
+  - [Xunlei Cloud](https://pan.xunlei.com) - 12TB, `$25-37/yr` — China's largest P2P network. **PikPak's parent company.** Thunder X is another Xunlei overseas brand.
   - [Quark](https://pan.quark.cn) - 1TB+ free (no throttle) — Alibaba-owned. BT/magnet support. Needs Chinese phone.
   - [Baidu Pan](https://pan.baidu.com) - 2TB free, `$42/yr` — largest user base. Severely throttled on free.
   - [BitQiu](https://pan.bitqiu.com) - 200GB free, 200 downloads/mo free — "Southern 115."
   - [123 Cloud](https://123pan.com) - 2TB free — fast-growing. Cross-device resume.
   - [Weiyun](https://weiyun.com) - `$40/yr` — Tencent. 30 downloads/day.
+  - [Guangniao](https://pan.gny.net) - 60GB free, 20 downloads — smaller Chinese cloud drive.
   - [TeraBox](https://terabox.com) - 1TB free — Baidu international. Torrent upload discontinued April 2023.
 </details>
 
@@ -213,8 +247,27 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
   - [LeechNinja](https://leechninja.com) - K2S, NitroFlare, Uploaded
   - [TurkDown](https://turkdown.com) - 33 hosts, free, torrent section. Hoster list outdated (includes defunct hosts).
   - [UploadedPremiumLink](https://www.uploadedpremiumlink.net) - 7 hosts (Mega, Uploaded, K2S, etc.), free ad-supported. IP-locked links.
+  - [VNZLeech](https://vnzleech.com) - 43 hosts, 10GB — Vietnamese.
+  - [KingOfDown](https://kingofdown.com) - 21 hosts, 2GB, 3hr cooldown.
+  - [MultiLeech](https://multileech.net) - 20 hosts.
+  - [Debrid-File](https://debrid-file.com) - 10 hosts, 2GB.
+  - [HyperDebrid](https://hyperdebrid.com) - free.
+  - [PremiumLinkGenerator.com](https://premiumlinkgenerator.com) - free.
+  - [Downloader.guru](https://downloader.guru) - free.
   - ~~[Uppremium](https://uppremium.link)~~ - 50+ hosts, 5GB, 5/day. ⚠️ Dead.
+  - ~~[AlemdarLeech](https://alemdarleech.com)~~ - Turkish CBox. ⚠️ Dead.
+  - ~~[PremiumLeech](https://premiumleech.eu)~~ - 3 hosts, 1GB. ⚠️ Dead.
+  - ~~[GetLinkPro](https://getlinkpro.com)~~ - ⚠️ Dead.
 </details>
+
+### Self-Hosted Cloud Torrent
+Deploy on any VPS to run your own cloud torrent service. Free (open source) — only pay for hosting.
+
+- [TorrServer](https://github.com/YouROK/TorrServer) - Go — instant torrent streaming server. DLNA support. Cross-platform. Very popular.
+- [Simple Torrent](https://github.com/boypt/simple-torrent) - Go — self-hosted remote torrent client. Mobile-friendly web UI. RSS. Available on Umbrel/YunoHost.
+- [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Go — remote torrent client with web UI. Deploy via Zeabur one-click. Docker Hub.
+- [Torranor](https://github.com/Zhoros/Torranor) - new (2026) — lightweight browser-based torrent downloader.
+- [Seedbox Lite](https://github.com/hotheadhacker/seedbox-lite) - Netflix-style self-hosted torrent streaming UI.
 
 ### Hosting Providers (VPS, Seedbox..)
 
@@ -233,6 +286,9 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - [Patbrid](https://github.com/mgoodings/patbrid) - (30★) RD blackhole + aria2.
 - [Babysitarr](https://github.com/DAdjadj/Babysitarr) - (26★) Self-healing daemon for Radarr/Sonarr+RD.
 - [n8n-nodes-torbox](https://github.com/Automations-Project/n8n-nodes-torbox) - TorBox for n8n workflows.
+- [Pachelarr](https://github.com/northernpowerhouse/pachelarr) - (6★) Prowlarr cache checker middleware.
+- [Scrob](https://github.com/ellite/scrob) - self-hosted Trakt+Seer+Pulsarr alternative.
+- [Vadarr](https://github.com/Woahai321/Vadarr) - IMDB/Trakt/AniList → Overseerr → DMM+RD. No *arr needed.
 - ~~[plex_debrid](https://github.com/itsToggle/plex_debrid)~~ - (1,640★) No longer maintained. Replaced by Riven, Decypharr, and CLI Debrid.
 - [Syncler](https://syncler.net/)
 - [Torrentio](https://torrentio.strem.fun/) - Used together with [Stremio](https://www.stremio.com/). Experiencing intermittent outages.
@@ -261,6 +317,8 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - Meteor - Multi-indexer scraper.
 - Sootio - AI semantic matching. Supports RD, AD, Offcloud.
 - Peerflix - Spanish/English. Hosted. Supports RD, PM, AD, DL, OC, put.io, TB.
+- [AutoStream](https://github.com/keypop3750/AutoStream) - curated best-picks.
+- [Comet Uncached](https://github.com/Zaarrg/comet-uncached) - Comet fork that shows uncached results.
 - ~~[UsenetStreamer](https://github.com/usenetstreamer/usenetstreamer)~~ - Usenet streaming via Easynews. ⚠️ Repo deleted.
 
 ### Stremio Addons — Regional & Niche
@@ -273,6 +331,12 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - YggPocket - (3★) French (Yggtorrent). Termux native.
 - NoTorrent - Direct MP4/m3u8 (no torrent/debrid). 25K movies, 2.5K series. Spanish/English.
 - Stremify - Multi-language (EN/IT/DE/FR). ElfHosted.
+- [Yomi](https://github.com/mralanbourne/Yomi) - (8★) Adult (Sukebei). Debrid.
+- [IlCorsaroViola](https://github.com/qwertyuiop8899/ilCorsaroViola) - Italian. RD/TB/AD.
+- [TamilStream](https://github.com/koddamani1/tamilstream-addon) - Tamil/Indian.
+- DubLuck - Dubbed content.
+- Stremula-1 - F1 replays.
+- StremVerse - Live sports.
 
 ### Stremio Utility Addons
 - Statusio - Debrid subscription status tracker in Stremio
@@ -283,6 +347,8 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - SubHero v2 - Multi-source subtitles. Better than OpenSubtitles Pro.
 - FilmWhisper - AI movie/show recommendations
 - Xtremio - M3U/XTREAM IPTV playlists
+- [Bitgraph](https://github.com/kiskey/stremio-bitgraph) - Bitmagnet integration.
+- Top-Streaming - Top 10 by country discovery.
 - DMM Cast - Cast/stream DMM library. RD/AD/TB.
 - ~~[Nuvio](https://nuvio.app)~~ - Stremio replacement platform. Native TorBox. ⚠️ Dead (domain for sale).
 
@@ -314,6 +380,8 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - [rd_symlink_manager](https://github.com/ericvlog/rd_symlink_manager) - (23★) Single-click symlink automation. Plex/Emby.
 - [Litterbox](https://github.com/elfhosted/litterbox) - (17★) RD library cleanup. Bulk-delete broken entries.
 - Mycelium - (4★) Seerr→TorBox→JF. No FUSE/rclone needed.
+- [DebridMovieMapper](https://github.com/phrontizo/DebridMovieMapper) - (2★) RD→WebDAV with TMDB identification. JF/Plex.
+- [vibeDebrid](https://github.com/vibeMonarch/vibeDebrid) - anime-friendly DMM. Self-hosted. Plex/JF.
 - Synology RD v2 - RD plugin for Synology Download Station.
 
 ## File System
@@ -376,7 +444,11 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - AllDebrid Extension - Official. Chrome/Firefox/Safari.
 - Debrid-Link Extension - Official. Chrome/Firefox/Edge.
 - RD VLC Extension - Play magnets in VLC via RD.
+- RD Utils - (5★) Chrome.
+- RD Tools - (5★) Chrome.
+- RD Magnet - Chromium. Magnet link handling.
 - RD Raycast - (2★) macOS Raycast extension.
+- Gopeed TorBox - TorBox integration for Gopeed download manager.
 - instantRD Filter - Tampermonkey. DMM filter buttons (4K/1080p/DV/HDR).
 
 ## Telegram & Discord Bots
@@ -385,6 +457,7 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - unchained-bot-kotlin - (27★) RD
 - alldebridBot - (3★) AD
 - rdctl-bot - (1★) RD
+- RD Cache Bot - RD (GitLab)
 - debrid-bot - DL (production-grade, Cloudflare proxy)
 - Deepbrid Bot - Official Deepbrid
 
@@ -428,6 +501,8 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
   - multio.ch - Swiss/German.
   - myfilehoster.de - 15 services.
   - beyondo.one - 24 multihosters.
+  - [multihoster.org](https://multihoster.org) - German/International A-Z listing.
+  - [usefulvid.com](https://usefulvid.com) - German multihoster comparison table.
 </details>
 
 ## Communities
@@ -442,6 +517,9 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 - [r/DebridVault](https://www.reddit.com/r/DebridVault/) - Debrid Vault + Eclipse
 - [r/OnlyDebrid](https://www.reddit.com/r/OnlyDebrid/) - OnlyDebrid service
 - [r/SynclerApp](https://www.reddit.com/r/SynclerApp/) - Syncler
+- [r/seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox + cloud torrent discussion
+- [r/DataHoarder](https://www.reddit.com/r/DataHoarder/) - Cloud torrent discussions
+- [r/strmr](https://www.reddit.com/r/strmr/) - Strmr app
 - [plex_debrid Discord](https://discord.gg/gDvqjjD3)
 - [ElfHosted Discord](https://discord.elfhosted.com)
 - [SeerrBridge Discord](https://discord.gg/seerrbridge)
@@ -456,6 +534,7 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 ## Miscellaneous
 - [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
 - [MultiUp](https://multiup.org) - Upload to multiple file hosts simultaneously. Heavily used in German scene.
+- [Go4Up](https://go4up.com) - Multi-host upload service.
 
 ## Contribution Guidelines
 Your contributions are welcome! Please refer to the [contributing guidelines](contributing.md) for information on how to contribute to this list.
