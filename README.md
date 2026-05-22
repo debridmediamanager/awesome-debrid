@@ -103,6 +103,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - [SonicSeedBox](https://sonicseedbox.com) - paid — "New Generation of Torrent Cloud." Converts torrents to HTTPS DDL. Multiple server locations.
   - [MaxCloudBox](https://maxcloudbox.com) - unknown pricing — cloud torrent, seedbox alternative.
   - [TorSnatch](https://torsnatch.com) - free, 25 Gbps claimed — redirects to SonicBit mobile apps.
+  - [TorrentDrive](https://torrentdrive.io) - freemium — mobile-focused. Android app. Anonymous cloud torrent downloading.
   - [TorrentSafe](https://torrentsafe.com)
   - ~~[CloudPipe](https://cloudpipe.io)~~ - fetches to Google Drive. ⚠️ Dead.
   - ~~[ByteBx](https://bytebx.com)~~ - ⚠️ Dead.
@@ -203,6 +204,8 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - [Fshare](https://fshare.vn) 🇻🇳 - #1 Vietnamese file hosting. FPT Telecom-owned. VIP from `$2.40/mo`.
   - [4share.vn](https://4share.vn) 🇻🇳 - Vietnamese file sharing.
   - [Coc Coc Browser](https://coccoc.com) 🇻🇳 - only Asian browser with native torrent downloading built in.
+  - [ShareBox](https://sharebox.co.kr) 🇰🇷 - Korean webhard/file sharing in cloud torrent discussions.
+  - [Webhard](https://webhard.co.kr) 🇰🇷 - paid P2P file hosting (웹하드). Korean-unique model.
   - ~~[TotalDebrid](https://totaldebrid.org) 🇫🇷~~ - ⚠️ Dead.
   - ~~[Abracadebrid](https://abracadebrid.com) 🇫🇷~~ - ⚠️ Dead (410 Gone).
   - ~~[ExtreamRapid](https://extreamrapid.com)~~ - ⚠️ Dead.
@@ -268,6 +271,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Go — remote torrent client with web UI. Deploy via Zeabur one-click. Docker Hub.
 - [Torranor](https://github.com/Zhoros/Torranor) - new (2026) — lightweight browser-based torrent downloader.
 - [Seedbox Lite](https://github.com/hotheadhacker/seedbox-lite) - Netflix-style self-hosted torrent streaming UI.
+- [Exatorrent](https://github.com/varbhat/exatorrent) - Go — self-hosted torrent client with web UI. Indian-developed.
 
 ### Hosting Providers (VPS, Seedbox..)
 
@@ -337,6 +341,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - DubLuck - Dubbed content.
 - Stremula-1 - F1 replays.
 - StremVerse - Live sports.
+- HDHub - HTTP streams.
 
 ### Stremio Utility Addons
 - Statusio - Debrid subscription status tracker in Stremio
@@ -503,6 +508,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
   - beyondo.one - 24 multihosters.
   - [multihoster.org](https://multihoster.org) - German/International A-Z listing.
   - [usefulvid.com](https://usefulvid.com) - German multihoster comparison table.
+  - [alternativeer.com](https://alternativeer.com) - 74 alternatives listed for debrid services.
 </details>
 
 ## Communities
