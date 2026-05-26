@@ -144,6 +144,7 @@ Downloading via a HTTPS link with a Debrid service provides enhanced security, a
   - ~~[Simply Debrid](https://simply-debrid.com/)~~ - pivoted to generic video downloader, no longer a debrid service
   - [Simply-Premium](https://simply-premium.com) - from `€5.83/mo`, 7-13 hosts + Usenet. Since 2009.
   - ~~[SMOOZED](https://www.smoozed.biz/)~~ - flagged as scam on GitHub/Tarnkappe.info
+  - [Storage Portal](https://www.storage-portal.com) - free 1GB, `$1/7GB`, `$45/600GB`. No monthly payment required; permanent traffic.
   - ~~[Superloading](https://superloading.com)~~ - 24 hosts. ⚠️ Dead.
   - [Vecwire](https://get.vecwire.com) - free (5/day) + premium, 12 hosts
 </details>
