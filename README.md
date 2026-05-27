@@ -467,7 +467,6 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - Deepbrid Bot - Official Deepbrid
 
 ### Discord
-- gDebrid - (8★) Multiple services
 - AllDebrid Bot - AD (top.gg)
 - NyaaScraperRD - RD+Nyaa
 
