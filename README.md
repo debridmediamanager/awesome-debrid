@@ -266,6 +266,7 @@ PikPak is Xunlei reskinned for overseas markets. The Chinese "offline download" 
 ### Self-Hosted Cloud Torrent
 Deploy on any VPS to run your own cloud torrent service. Free (open source) — only pay for hosting.
 
+- [Torrin](https://github.com/torrin-app/torrin) - Go — open-source self-hosted debrid service. Add a magnet, get a stream. Stremio addon, web player, Docker image.
 - [TorrServer](https://github.com/YouROK/TorrServer) - Go — instant torrent streaming server. DLNA support. Cross-platform. Very popular.
 - [Simple Torrent](https://github.com/boypt/simple-torrent) - Go — self-hosted remote torrent client. Mobile-friendly web UI. RSS. Available on Umbrel/YunoHost.
 - [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Go — remote torrent client with web UI. Deploy via Zeabur one-click. Docker Hub.
