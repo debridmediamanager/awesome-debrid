@@ -530,11 +530,16 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [SeerrBridge Discord](https://discord.gg/seerrbridge)
 
 ## Guides and Tutorials
+
 - [A Sailarr's Guide to Plex + Real-Debrid](https://bit.ly/puksthepirate)
-- [Streaming from Real-Debrid with Plex (*on ElfHosted*)](https://elfhosted.com/guides/media/stream-from-real-debrid-with-plex/)
 - [CoreLab Tech](https://corelab.tech) - DUMB+RD, AIOStreams setup guides
-- [Viren070 Guides](https://guides.viren070.me) - Stremio/debrid setup
+- [How to Install Torrentio on Stremio](https://torentio.com/how-to-install-torrentio-on-stremio/)
+- [Real-Debrid Account Rules for Torrentio Users](https://torentio.com/real-debrid-account-rules/)
+- [Streaming from Real-Debrid with Plex (*on ElfHosted*)](https://elfhosted.com/guides/media/stream-from-real-debrid-with-plex/)
+- [Torrentio Configuration Guide](https://torentio.com/torrentio-configuration-guide/)
+- [Torrentio Troubleshooting Guide](https://torentio.com/torrentio-troubleshooting-guide/)
 - [TROYPOINT](https://troypoint.com) - Comparisons, alternatives
+- [Viren070 Guides](https://guides.viren070.me) - Stremio/debrid setup
 
 ## Miscellaneous
 - [Awesome *Arr](https://github.com/Ravencentric/awesome-arr)
