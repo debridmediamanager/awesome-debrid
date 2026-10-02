@@ -363,6 +363,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - Seren - v3. Debrid-first. Supports RD, PM, AD.
 - POV - Seren successor for many. Debrider integrated. Supports RD, AD, PM.
 - FEN/FENLight - FENLight is the successor. Supports RD, PM, AD.
+  - [Tinkerer fork](https://github.com/wggriffiths/KodiPortable) - Unofficial Windows portable Kodi build with a Fen Light fork and CocoScrapers. Supports RD, PM, AD.
 - The Crew - Movies/TV/Live TV. Supports RD, PM, AD.
 - [Umbrella](https://github.com/umbrellaplug/umbrellaplug.github.io) - Supports RD, AD, PM.
 - ResolveURL - Dependency addon enabling debrid link resolution across Fen, Seren, Umbrella, etc.
