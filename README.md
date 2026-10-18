@@ -388,6 +388,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [DebridMovieMapper](https://github.com/phrontizo/DebridMovieMapper) - (2★) RD→WebDAV with TMDB identification. JF/Plex.
 - [vibeDebrid](https://github.com/vibeMonarch/vibeDebrid) - anime-friendly DMM. Self-hosted. Plex/JF.
 - Synology RD v2 - RD plugin for Synology Download Station.
+- [BookOrbit Debrid](https://github.com/orbitverse/bookorbit-debrid-plugin) - BookOrbit plugin for ebook and audiobook search and downloads through Prowlarr/Jackett and debrid services.
 
 ## File System
 - [rclone](https://github.com/rclone/rclone) - a command-line program to mount cloud storage providers to your computer (like Dropbox)
