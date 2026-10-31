@@ -377,6 +377,8 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - Beemio - Self-hosted Stremio companion server.
 
 ## Media Server Integration
+- [rex](https://rex.debridmediamanager.com/) - A media server that owns no files. Any source in every Plex app: zurg, Stremio addons or your own app. Nothing to download and nothing to scan. Free for personal use.
+- [rex-stremio](https://github.com/debridmediamanager/rex-stremio) - Your Stremio addons' catalogs as rex libraries, played from your stream addons and never downloaded.
 - [TMDB-To-VOD](https://github.com/gogetta69/TMDB-To-VOD-Playlist) - (289★) TMDB+debrid → IPTV/VOD playlists.
 - [RoboFuse](https://github.com/itsrenoria/robofuse) - (111★) .strm generator. Library repair. Inspired by zurg. Supports Plex/JF/Emby.
 - [jf-resolve](https://github.com/vicking20/jf-resolve) - (43★) RD → Jellyfin streaming.
@@ -392,10 +394,10 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 ## File System
 - [rclone](https://github.com/rclone/rclone) - a command-line program to mount cloud storage providers to your computer (like Dropbox)
 - [rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
-- [zurg](https://github.com/debridmediamanager/zurg-public) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
+- [zurg](https://zurg.debridmediamanager.com/) - Every debrid account and Usenet in one folder that Plex, Jellyfin, Emby and Infuse read like a normal drive. Mount it with rclone. The [public release](https://github.com/debridmediamanager/zurg-public) is Real-Debrid only. Nightlies with all six debrid services and Usenet are for sponsors.
 
 ## Content Managers
-- [Debrid Media Manager](https://debridmediamanager.com/)
+- [Debrid Media Manager](https://debridmediamanager.com/) - Find movies and shows and keep them in your debrid library. RD/AD/TB/PM/OC/DL. Share libraries as [hashlists](https://hashlists.debridmediamanager.com/).
 - [Debrify](https://github.com/varunsalian/debrify) - (292★) Open-source cross-platform debrid manager. Android, Android TV, iOS, Windows, macOS, Linux. Supports RD, TorBox, PikPak. Stremio and Trakt integration. Flutter.
 - [Real Debrid Manager](https://rdm.ayush.gg/)
 - [TorBox Manager](https://github.com/Echo-Storm/TorBox_Manager) - Desktop queue manager for TorBox. Torrents, magnets, hoster links, NZBs.
@@ -511,7 +513,8 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 </details>
 
 ## Communities
-- [Debrid Media Manager & zurg subreddit](https://www.reddit.com/r/debridmediamanager/)
+- [Debrid Media Manager + zurg + rex subreddit](https://www.reddit.com/r/debridmediamanager/)
+- [Debrid Media Manager + zurg + rex Discord](https://discord.com/invite/7u4YjMThXP)
 - [Real-Debrid subreddit](https://www.reddit.com/r/RealDebrid/)
 - [r/TorBoxApp](https://www.reddit.com/r/TorBoxApp/) - TorBox ecosystem
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) - Stremio addons
@@ -525,7 +528,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [r/seedboxes](https://www.reddit.com/r/seedboxes/) - Seedbox + cloud torrent discussion
 - [r/DataHoarder](https://www.reddit.com/r/DataHoarder/) - Cloud torrent discussions
 - [r/strmr](https://www.reddit.com/r/strmr/) - Strmr app
-- [plex_debrid Discord](https://discord.gg/gDvqjjD3)
+- [plex_debrid Discord](https://discord.gg/jMpyFryfaj)
 - [ElfHosted Discord](https://discord.elfhosted.com)
 - [SeerrBridge Discord](https://discord.gg/seerrbridge)
 
