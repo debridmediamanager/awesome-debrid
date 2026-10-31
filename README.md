@@ -394,7 +394,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 ## File System
 - [rclone](https://github.com/rclone/rclone) - a command-line program to mount cloud storage providers to your computer (like Dropbox)
 - [rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid
-- [zurg](https://zurg.debridmediamanager.com/) - Every debrid account and Usenet in one folder that Plex, Jellyfin, Emby and Infuse read like a normal drive. Mount it with rclone. The [public release](https://github.com/debridmediamanager/zurg-public) is Real-Debrid only. Nightlies with all six debrid services and Usenet are for sponsors.
+- [zurg](https://zurg.debridmediamanager.com/) - Every debrid account and Usenet in one folder that Plex, Jellyfin, Emby and Infuse read like a normal drive. Mount it with rclone. The [public release](https://github.com/debridmediamanager/zurg-public) is Real-Debrid only. Nightlies with every supported debrid service and Usenet are for sponsors.
 
 ## Content Managers
 - [Debrid Media Manager](https://debridmediamanager.com/) - Find movies and shows and keep them in your debrid library. RD/AD/TB/PM/OC/DL. Share libraries as [hashlists](https://hashlists.debridmediamanager.com/).
