@@ -319,7 +319,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [n8n-nodes-torbox](https://github.com/Automations-Project/n8n-nodes-torbox) - (9★) TorBox for n8n workflows: torrents, Usenet, web downloads.
 - [Pachelarr](https://github.com/northernpowerhouse/pachelarr) - (13★) Proxy between Prowlarr and the *arrs that pushes results already cached on TorBox to the top.
 - [Vadarr](https://github.com/Woahai321/Vadarr) - (0★) IMDB/Trakt/AniList → Overseerr → DMM+RD. No *arr needed.
-- ~~[plex_debrid](https://github.com/itsToggle/plex_debrid)~~ - (1,650★) Archived. Replaced by Riven, Decypharr, and CLI Debrid.
+- ~~[plex_debrid](https://github.com/itsToggle/plex_debrid)~~ - (1,650★) Archived. Development continues in [DMM's fork](https://github.com/debridmediamanager/plex_debrid) (26★). Alternatives: Riven, Decypharr, CLI Debrid.
 - [Cinephage](https://github.com/Cinephage/Cinephage) - (898★) One self-hosted app in place of Sonarr, Radarr, Prowlarr, Bazarr and Overseerr. Sends releases to RD or TorBox (or qBittorrent, SABnzbd, NZBGet), streams Usenet NZBs without downloading them, writes .strm files, has live TV. Docker.
 - [Shelfmark](https://github.com/calibrain/shelfmark) - (4,107★) Self-hosted book and audiobook search and request tool. AllDebrid, Real-Debrid, TorBox or Debrid-Link work as download clients next to torrent and Usenet clients; imports into Calibre, Calibre-Web or Audiobookshelf.
 - [Mydia](https://github.com/getmydia/mydia) - (805★) Self-hosted movie and TV manager in the Sonarr/Radarr mould, with RD, AD, PM and TorBox as download clients. Early development (0.x).
@@ -429,6 +429,8 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [NeNeTeePee Stream](https://github.com/Appz4Fun/NeNeTeePee-Stream-Kodi) - (14★) Kodi 21 addon that streams from Usenet: searches NZBHydra2 and plays through NzbDAV's WebDAV. TMDb Helper player.
 - [EasyNews Kodi](https://github.com/tetsuosoft/EasyNewsKodi) - (28★) Searches Easynews and plays its streams in Kodi, with saved newsgroups. Kodi 19+, Easynews account needed.
 - [Account Manager Lite](https://github.com/Zaxxon709/accountmanager) - (35★) Authorize RD, PM, AD, TorBox, Offcloud, Easynews, Trakt and MDBList once and push the tokens into Fen Light, Umbrella, POV, Seren, Otaku, a4kStreaming, ResolveURL and about a dozen other addons. QR sign-in.
+- [Gaia](https://gaiakodi.com) - Movies and shows from torrent, Usenet and hoster sources. Supports PM, Offcloud, RD, TorBox, AD, DL and Debrider, plus Easynews and Orion; limited support for LinkSnappy, Mega-Debrid and a few others. Kodi 21+. [Repo](https://github.com/gaiakodi/gaiamain) (11★).
+- [Prism](https://github.com/Goldenfreddy0703/Prism) - (19★) Seren fork from the Otaku developer: movies, shows and anime in one addon, with Simkl. Supports RD, PM, AD, TorBox, Offcloud (optional). Early release.
 
 ## Proxy & Infrastructure
 - [MediaFlow Proxy](https://github.com/mhdzumair/mediaflow-proxy) - (832★) Streaming proxy for HTTP(S), HLS and MPEG-DASH with ClearKey DRM decryption. Enables Stremio addons to proxy debrid streams, bypassing IP restrictions. Also supports IPTV (Xtream Codes), Acestream.
@@ -461,6 +463,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [mediastorm](https://github.com/godver3/mediastorm) - (147★) Self-hosted streaming server from the CLI Debrid author, with native iOS, tvOS, Android and Android TV apps. Streams from RD, TorBox, AD, PM, Torrin or Usenet (built-in NNTP, NzbDAV, AltMount, Decypharr) alongside Plex and Jellyfin libraries; live TV and DVR, profiles, Trakt.
 - [jfresolve](https://github.com/vicking20/jfresolve) - (40★) Jellyfin plugin (12.4+) that adds TMDB movies and shows to your library and plays them through a Stremio addon (AIOStreams, Torrentio, Comet...) with your debrid key. Nothing is downloaded; resumes when the debrid host drops the connection.
 - [Synology Put.io](https://github.com/barisariburnu/synology-putio) - (23★) File host module for Synology Download Station: downloads files, MP4 conversions and zip streams from your put.io account to the NAS.
+- [AioFin](https://github.com/tweakapps/aiofin) - (13★) AIOStreams with a Jellyfin-compatible API, so Infuse, SenPlayer and other Jellyfin apps see your AIOStreams catalogs as libraries and play straight from the debrid or Usenet link. Nothing is transcoded; progress is kept per profile. Docker image replaces the AIOStreams one.
 
 ## File System
 - [rclone](https://github.com/rclone/rclone) - (60,776★) a command-line program to mount cloud storage providers to your computer (like Dropbox)
