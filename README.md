@@ -327,6 +327,10 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [westsurname/scripts](https://github.com/westsurname/scripts) - (164★) Python scripts for the *arrs: an RD and TorBox torrent blackhole, symlink repair, import of torrent folders, cleanup of broken links.
 - [plundrio](https://github.com/elsbrock/plundrio) - (48★) put.io download client for Sonarr, Radarr and Lidarr (speaks Transmission RPC). Adds transfers to put.io and downloads finished files to disk.
 - [putioarr](https://github.com/wouterdebie/putioarr) - (51★) Rust proxy that lets Sonarr, Radarr and Whisparr use put.io as a Transmission download client.
+- [Mediarium](https://github.com/rdborg/Mediarium) - (294★) One self-hosted app in place of Radarr, Sonarr, Prowlarr, SABnzbd, a torrent client and Bazarr, for movies, TV, music, ebooks and audiobooks. RD, TorBox or Premiumize can download torrents instead of the built-in client, and Mediarium fetches the finished files over HTTPS. Docker; new (Sep 2026).
+- [ddlarr-suite](https://github.com/z-m-g/ddlarr-suite) - (14★) French. Torznab indexer for French direct-download (DDL) sites plus a stand-in qBittorrent client, so Sonarr and Radarr can grab DDL releases; hoster links are unlocked through AllDebrid, RD or PM, and real torrents can go to the same services. Docker.
+- [SchröDrive](https://github.com/moderniselife/SchroDrive) - (8★) Takes Overseerr requests, searches Prowlarr or Jackett and adds the chosen release to your debrid service, for an rclone mount that Plex, Jellyfin or Emby read. TorBox, RD and AD tested; PM, DL, Deepbrid, Offcloud, put.io, Mega-Debrid, Seedr and PikPak written but untested.
+- [Easynews as Indexer](https://github.com/Sanket9225/Easynews_as_indexer) - (82★) Turns Easynews search into a Newznab-style indexer you add to Prowlarr, so the *arrs can grab NZBs from Easynews. Docker. By the UsenetStreamer author.
 
 ## Stremio Addons
 - [AIOStreams](https://github.com/Viren070/AIOStreams) - (3,096★) Puts your Stremio addons, debrid services and Usenet into one filtered, sorted list. Built-in scrapers, add any addon by URL, proxying via its own proxy, MediaFlow Proxy or StremThru. 17 services: RD, AD, PM, DL, TorBox, Torrin, Offcloud, put.io, EasyDebrid, Debrider, PikPak, Seedr, plus Easynews, NzbDAV, AltMount, NNTP and StremThru Newz for Usenet.
@@ -362,6 +366,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [Cauldron](https://github.com/wizaarddlabs/cauldron) - (24★) Self-hosted torrent + debrid search addon that also exposes a REST API. Supports RD, AD, PM, TorBox, Torrin, Offcloud.
 - [Easynews+](https://github.com/sleeyax/stremio-easynews-addon) - (76★) Open-source Easynews addon with a search catalog; public instance or self-hosted. Needs an Easynews account. Fork with custom titles: [Easynews++](https://github.com/panteLx/easynews-plus-plus) (99★).
 - [Stremio NZB Addon](https://github.com/sleeyax/stremio-nzb-addon) - (33★) Self-hosted Usenet addon: searches your own indexers or NZBHydra2 and hands Stremio's built-in Usenet player your NNTP servers. No WebDAV server needed.
+- [Stremio Jackett](https://github.com/aymene69/stremio-jackett) - (303★) Self-hosted addon that searches your own Jackett server. Optional RD, AD, PM or TorBox. Last update Dec 2025.
 
 ### Stremio Addons — Regional & Niche
 - [MammaMia](https://github.com/UrloMythus/MammaMia) - (163★) Italian. Direct HTTPS streams (no debrid).
@@ -403,6 +408,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [Core Builds](https://github.com/brevityA/Core-Builds) - (62★) AIOStreams templates tuned for smooth playback: bitrate caps, deduplication, sorting. r/CoreBuilds.
 - [Local Cache](https://github.com/heroiamarelo1/Local-Cache) - (22★) Android TV app that runs a Stremio addon on the TV and saves debrid or torrent streams to USB, so you watch while it downloads and without buffering.
 - [Vidhin's Regexes](https://github.com/Vidhin05/Releases-Regex) - (260★) Release regexes and ranked stream expressions based on TRaSH Guides, for sorting movie, TV and anime results. Loads as an AIOStreams template and syncs updates automatically.
+- [IntroHater](https://introhater.com/configure.html) - Skips intros, recaps and outros by re-serving your AIOStreams streams as an edited HLS stream. Needs RD, TorBox, PM or AD. [Source](https://github.com/introhaterapp/IntroHater) (32★).
 
 ## Kodi Addons
 - [Debrid Media Manager](https://debridmediamanager.com/kodi) - Browse and search films and shows in Kodi and play the cached releases DMM knows of and what members have cast, through your own account. Link Kodi with a code. RD, TorBox, AD, PM, Offcloud, DL.
@@ -422,6 +428,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [Bingie](https://github.com/matke-84/skin.bingie) - (58★) Netflix-style skin. Optimized for low-power devices.
 - [NeNeTeePee Stream](https://github.com/Appz4Fun/NeNeTeePee-Stream-Kodi) - (14★) Kodi 21 addon that streams from Usenet: searches NZBHydra2 and plays through NzbDAV's WebDAV. TMDb Helper player.
 - [EasyNews Kodi](https://github.com/tetsuosoft/EasyNewsKodi) - (28★) Searches Easynews and plays its streams in Kodi, with saved newsgroups. Kodi 19+, Easynews account needed.
+- [Account Manager Lite](https://github.com/Zaxxon709/accountmanager) - (35★) Authorize RD, PM, AD, TorBox, Offcloud, Easynews, Trakt and MDBList once and push the tokens into Fen Light, Umbrella, POV, Seren, Otaku, a4kStreaming, ResolveURL and about a dozen other addons. QR sign-in.
 
 ## Proxy & Infrastructure
 - [MediaFlow Proxy](https://github.com/mhdzumair/mediaflow-proxy) - (832★) Streaming proxy for HTTP(S), HLS and MPEG-DASH with ClearKey DRM decryption. Enables Stremio addons to proxy debrid streams, bypassing IP restrictions. Also supports IPTV (Xtream Codes), Acestream.
@@ -452,6 +459,8 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [Hound](https://github.com/Hound-Media-Server/hound) - (474★) Go media server with built-in tracking: streams from your drives, torrents, debrid and Usenet through Stremio addons (AIOStreams). Desktop, Android/Android TV, iOS/tvOS clients.
 - [Gelato](https://github.com/lostb1t/Gelato) - (868★) Jellyfin plugin that brings your AIOStreams addon into Jellyfin: Jellyfin search finds its titles, catalogs are imported as normal library items, streams are found when you press play and go through Jellyfin, so your debrid service sees one IP. Seerr requests add titles. Jellyfin 12. Same author as Remux.
 - [mediastorm](https://github.com/godver3/mediastorm) - (147★) Self-hosted streaming server from the CLI Debrid author, with native iOS, tvOS, Android and Android TV apps. Streams from RD, TorBox, AD, PM, Torrin or Usenet (built-in NNTP, NzbDAV, AltMount, Decypharr) alongside Plex and Jellyfin libraries; live TV and DVR, profiles, Trakt.
+- [jfresolve](https://github.com/vicking20/jfresolve) - (40★) Jellyfin plugin (12.4+) that adds TMDB movies and shows to your library and plays them through a Stremio addon (AIOStreams, Torrentio, Comet...) with your debrid key. Nothing is downloaded; resumes when the debrid host drops the connection.
+- [Synology Put.io](https://github.com/barisariburnu/synology-putio) - (23★) File host module for Synology Download Station: downloads files, MP4 conversions and zip streams from your put.io account to the NAS.
 
 ## File System
 - [rclone](https://github.com/rclone/rclone) - (60,776★) a command-line program to mount cloud storage providers to your computer (like Dropbox)
@@ -502,6 +511,11 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [SceneBox](https://github.com/donbytyqi/scenebox) - (133★) Torrent streaming app for iPhone, iPad, Apple TV and Mac, fed by Stremio addons. Releases cached on RD, AD, PM, DL or TorBox play straight over HTTPS.
 - [Harbor](https://github.com/Harborofficial/Harbor) - (189★) Desktop Stremio-addon client for Windows and macOS (community Linux packages): stream ranking, watch parties, live TV, availability checks and playback through RD, AD, PM, DL or TorBox. Beta.
 - [AudioYam](https://github.com/drdilips1/Audiohub) - (14★) Audiobook, ebook and podcast app for Android and the [web](https://listen.audiohubapp.com/). Plays from Audiobookshelf and streams books from your TorBox or RD cloud.
+- [Compass](https://compass.sarl/) - Desktop Stremio-addon client for Windows and macOS (plus a browser version and community Linux packages): stream ranking, watch parties, live TV and DVR, Jellyfin/Plex libraries. Checks RD, AD, PM, DL and TorBox caches itself and cross-checks your debrid library. [Source](https://github.com/compassstremio/Compass) (50★).
+- [Rattin](https://github.com/narzaut/rattin-public) - (164★) Desktop torrent streaming app for Windows and Linux built on libmpv: TMDB browsing, binge mode with intro skipping, phone remote. Optional RD or TorBox cache for instant playback with no peers.
+- [RogPlay](https://github.com/kunwarxshashank/rogplay) - (107★) Android and Android TV player for Stremio and Nuvio addons, IPTV and local files; resolves magnets itself through RD, AD, PM or TorBox. Watch parties. Uses Google sign-in and Firebase analytics.
+- [Magnolia](https://github.com/magnolia-org/magnolia) - (21★) Torrent streaming app for Windows, macOS and Linux with built-in search and mpv playback; TorBox built in, other debrid services through extensions.
+- [Enve](https://envemedia.com/books/) - Audiobook, ebook, comic and podcast app for iOS and Android. Reads Audiobookshelf, Plex, Jellyfin, Komga and others, plus books stored on Premiumize, RD or TorBox. No ads or analytics. [Source](https://github.com/opisaac9001/Enve-Book-Player) (43★).
 
 <details>
   <summary>More streaming apps</summary>
@@ -519,6 +533,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 
 ## Download Managers
 - [pyLoad](https://github.com/pyload/pyload) - (3,905★) Download manager with 100+ host plugins. Multihoster support.
+- [Cyberdrop-DL](https://github.com/Cyberdrop-DL/cyberdrop-dl) - (917★) Bulk downloader for file hosts and galleries. Add an RD token and it also downloads from the 250+ hosts RD supports.
 - [pikpakcli](https://github.com/52funny/pikpakcli) - (261★) Go command-line tool for PikPak: download, upload, share.
 - [BATorrent](https://github.com/BATorrent-app/BATorrent) - (164★) Desktop torrent client (Windows, macOS, Linux) that shows downloads as cover art and plays them while they download. Torrents already cached on RD or TorBox stream from there, with nothing downloaded or seeded.
 - [rdcli](https://github.com/johackim/rdcli) - (152★) Node.js command-line tool (npm): unrestricts hoster links, torrents and magnets through RD and downloads them.
@@ -528,7 +543,10 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [putio-sync](https://github.com/putdotio/putio-sync) - (60★) Official put.io tool that keeps a folder in sync between put.io and your computer. CLI, plus a [desktop app](https://github.com/putdotio/putio-sync-desktop) for macOS and Windows.
 - [OneDL](https://github.com/ellite/OneDL) - (59★) Universal CLI downloader — torrents, hosters, MEGA, HTTP(S). Supports RD, AD, Premiumize, TorBox, DebridLink.
 - [AllDebrid-Watcher](https://github.com/vlacour97/alldebrid-watcher) - (56★) Monitors+downloads AD transfers automatically.
+- [torrent-hound](https://github.com/baddymaster/torrent-hound) - (34★) Terminal torrent search across several trackers; one key sends a result to RD and hands the links to your download tool, another opens it in Seedr.
+- [Ultimate Downloader](https://github.com/xersbtt/ultimate-downloader-colab) - (30★) Google Colab notebook that downloads from Gofile, Pixeldrain, Mega, YouTube, PikPak and others into your Google Drive, named for Plex. RD or TorBox for premium hosts and magnets.
 - [Knightloader](https://github.com/junkerderprovinz/knightloader) - (13★) Self-hosted download manager for hosters, debrid, torrents, Usenet and videos.
+- [ClicknDebrid](https://github.com/XaverLeet/clickndebrid) - (10★) Click'n'Load proxy: catches CNL links from file-host pages, unlocks them through RD and forwards them to pyLoad or JDownloader. Docker.
 - [Mediarr](https://github.com/wjH-3/Mediarr) - (8★) Windows CLI. RD+IMDb+TVMaze+DMM+MPV. Unmaintained since 2024.
 - [Real_Debrid_Toolbox](https://github.com/arlcodes/Real_Debrid_Toolbox) - (7★) Python script: uploads .torrent files, tracks and downloads torrents, unrestricts hoster links, removes duplicates by hash. RD.
 - [LazyDebrid](https://onurhanak.github.io/lazydebrid/) - (5★) Terminal-based interface for managing RD torrents/downloads. Archived.
@@ -538,15 +556,21 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
   <summary>Games and consoles</summary>
 
   - [Hydra Launcher](https://github.com/hydralauncher/hydra) - (17,602★) Game launcher and catalogue for Windows and Linux. Downloads through its built-in torrent client or through RD, AD, PM or TorBox.
+  - [Fit Launcher](https://github.com/CarrotRub/Fit-Launcher) - (1,398★) Browse, download and install FitGirl repacks (Windows, Linux). Downloads can go through RD or TorBox since v4.0 (Dec 2025).
   - [Orbit Store](https://github.com/saawant12/orbit-store-ps5) - (1,324★) Download manager for jailbroken PS5s, with a companion app for Mac, Windows and Linux. Can download through TorBox.
   - [DirectPackageInstaller](https://github.com/marcussacana/DirectPackageInstaller) - (557★) Sends PKG files from direct links to a PS4 or PS5; resolves hoster links through AllDebrid, Real-Debrid or Debrid-Link.
   - [Project GLD](https://github.com/Y0URD34TH/Project-GLD) - (528★) Windows game library and launcher; community Lua scripts find downloads, and its built-in torrent client can use RD or TorBox.
   - [Pegasus DL+](https://github.com/pegasus-ps5/pegasus-dl) - (456★) PS5 homebrew: browse catalogs, download and install packages with a controller. Links RD or TorBox from your phone.
   - [RGSX](https://github.com/RetroGameSets/RGSX) - (437★) ROM downloader for Batocera, Knulli and RetroBat; unlocks 1fichier with its own API, falling back to AD, DL, RD or TorBox.
+  - [Ascendara](https://ascendara.app) - Game library and installer for Windows and Linux that downloads pre-installed games so there is no setup step. Can fetch through TorBox. [Source](https://github.com/Ascendara/ascendara) (321★).
   - [PS5 Library](https://github.com/deox1111/ps5-library) - (307★) Game library for jailbroken PS5s that downloads, unpacks and installs on the console; AllDebrid, Real-Debrid or TorBox fetch from supported hosts.
   - [SSPI](https://github.com/Xyhlo/SSPI) - (153★) Package installer for jailbroken PS4s: search, download and extract (multi-part RAR/7z) through RD, TorBox, AD or PM. Builds are closed; the repo is a source overview.
   - [OpenGameInstaller](https://github.com/Nat3z/OpenGameInstaller) - (122★) Addon-based game installer for Windows with RD, AllDebrid and TorBox support.
+  - [Yamata Launcher](https://github.com/Gr3gorywolf/Yamata-launcher) - (122★) Game launcher for Windows, macOS, Linux and Android (also Batocera and SteamOS) that reads Hydra-compatible download sources; downloads through AD, RD or TorBox.
+  - [romgi](https://github.com/caprado/romgi) - (112★) ROM downloader for Android handhelds (Retroid, Anbernic, AYN); torrent links resolve through RD or TorBox since v1.7 (Aug 2026).
+  - [The Goonies App](https://github.com/GoodmanBCN10/The-Goonies-APP) - (45★) Spanish. Content installer for modded Nintendo Switch consoles; RD as a download engine since v2.1.4 (Jul 2026).
   - [TorBox Tinfoil Server](https://github.com/TorBox-App/torbox-tinfoil-server) - (39★) Official. Serves your TorBox downloads as a custom Tinfoil shop on a Nintendo Switch. Paid plan, Docker. Last updated May 2025.
+  - [GODsend 360](https://github.com/ghostyshell/GODSend-360) - (29★) Xbox 360 game manager for the Aurora dashboard: a desktop backend fetches games, converts ISOs to GOD and sends them over FTP. RD or TorBox can fetch the torrents first for faster downloads.
 </details>
 
 ## Browser Extensions
@@ -617,6 +641,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [debrid-umbrel-app-store](https://github.com/Deudly/debrid-umbrel-app-store) - (0★) Debrid apps (Comet) for Umbrel. Unmaintained since 2024.
 - [Maestro](https://github.com/clayboicardi/maestro) - (0★) MCP server: lets an AI agent read, audit and edit your Stremio addon configs (AIOStreams) for RD.
 - [Easy AIOStreams](https://github.com/alpinezx/easy-aiostreams) - (57★) One-command installer for your own AIOStreams instance on a VPS or a home computer: Docker, Caddy with automatic HTTPS, login, backup/restore; home installs via Cloudflare Tunnel.
+- [Viren's Docker Compose Template](https://github.com/Viren070/docker-compose-template) - (216★) From the AIOStreams author: Docker Compose files with Traefik and Authelia for 100+ apps, among them AIOStreams, Comet, MediaFusion, StremThru, Zurg, Decypharr, DebriDav, NzbDAV, AltMount, TorBox Manager and the *arrs.
 
 ## Comparison & Reference
 - [Debrid Services Comparison](https://github.com/fynks/debrid-services-comparison) - (632★) Interactive web app comparing pricing, features, and 300+ supported hosts across all debrid services. [debridcompare.pages.dev](https://debridcompare.pages.dev)
@@ -628,6 +653,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [alternativeer.com](https://alternativeer.com/mydebrid) - 74 debrid and premium link generator alternatives with user ratings.
 - [multihoster.org](https://multihoster.org) - English reviews of file hosts and multihosters. Dated: still covers Zippyshare, Openload and Zevera.
 - ~~[mymultihoster.org](https://mymultihoster.org)~~ - English multihoster reviews. ⚠️ Dead (Nov 2026). Cloudflare 522, origin down; last archived Apr 2026.
+- [TorBox Post-Mortems](https://github.com/TorBox-App/torbox-post-mortems) - (16★) Official write-ups of TorBox's large outages (Apr and Jun 2026).
 
 <details>
   <summary>German-language comparisons</summary>
