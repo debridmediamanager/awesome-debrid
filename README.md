@@ -1,6 +1,7 @@
 # awesome-debrid [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of debrid services and the apps, addons, tools and guides built around them, for streaming and downloading. Dead, parked or hijacked entries are struck through and dated.
+A curated list of debrid services and the apps tools and guides built around them for streaming and downloading.
+Dead parked or hijacked entries are struck through and dated.
 
 [r/awesomedebrid](https://www.reddit.com/r/awesomedebrid/)
 
@@ -41,11 +42,12 @@ A curated list of debrid services and the apps, addons, tools and guides built a
 - [License](#license)
 
 ## What is a Debrid service?
-**Before:** Debrid services are web apps that provide premium access to multiple file hosts (or one-click hosters, OCH). This enables users to download or stream content from various sources through a single account, often at higher speeds and with fewer restrictions. They are also referred to as multi one-click hosters (MOCH).
+Debrid services give one account access to many file hosts. You can download or stream through one service
+instead of managing each host yourself. They are also called multi one-click hosters or MOCHs.
 
-**Now:** Apart from being able to download from OCH, Debrid services are becoming more and more popular lately because of being able to instantly finish downloading a torrent and providing an HTTPS (!) link to download or stream a video inside it. The concept is similar to a shared torrent [seedbox](https://en.wikipedia.org/wiki/Seedbox) although not all Debrid services support seeding. The difference of this and [Usenet](https://en.wikipedia.org/wiki/Usenet) is with a Debrid service, you don't need a different software to [download](https://nzbget.com/) content and it supports streaming a la Netflix. Some Debrid services like Real-Debrid also support video transcoding without any additional fees. Services like TorBox, Premiumize and Deepbrid now handle Usenet as well as torrents, blurring the line between the two.
-
-Downloading via a HTTPS link with a Debrid service provides enhanced security, as the encryption of the download URL ensures that the specifics of what you are downloading remain hidden from anyone monitoring the network. A VPN is not required unless the website is compromised for a [man-in-the-middle (MiTM) attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack).
+Many services now finish torrents quickly and return an HTTPS link for the files. This feels like a shared
+[seedbox](https://en.wikipedia.org/wiki/Seedbox). Some also handle [Usenet](https://en.wikipedia.org/wiki/Usenet)
+and offer video playback. The list below records what each service supports.
 
 ## Debrid Services
 
