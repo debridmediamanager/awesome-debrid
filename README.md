@@ -481,6 +481,7 @@ Deploy on any VPS to run your own cloud torrent service. Free (open source) — 
 - [atba](https://github.com/93Pd9s8Jt/atba) - (183★) Android client for TorBox with streaming. Android TV support is partial.
 - [utac](https://github.com/ech0devv/utac) - (81★) Android client for TorBox.
 - [nullseek](https://github.com/LivingWithHippos/nullseek) - (41★) Android app for TorBox, by the Unchained developer.
+- [T-Box](https://github.com/maniac75/t-box-for-torbox) - (15★) Native iPhone client for TorBox (sideload; AltStore/Feather source available): torrents, web downloads and the queue, add from the Share sheet, background downloads to Files or Photos, open in Infuse, VLC or VidHub.
 - [Real Debrid Manager](https://github.com/AyushSehrawat/rdm) - (88★) Web UI to search and manage RD downloads and torrents. Archived.
 - [DebridUI](https://github.com/viperadnan-git/debridui) - (106★) Web debrid client: manage files across several accounts, discover trending titles, stream to your player, addon support. RD, TorBox, AD. Hosted at [debridui.viperadnan.com](https://debridui.viperadnan.com).
 - [Piko](https://github.com/NihilDigit/piko) - (657★) Fast PikPak client for Android and Windows (macOS, Linux experimental). Parses magnets, torrents and share links with per-file selection, multi-connection transfers, drive-wide search.
