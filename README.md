@@ -145,7 +145,7 @@ Everything here also takes NZBs; most also unlock one-click hosters.
   - [RapidGrab](https://rapidgrab.ovh/) - free — 10GB, 1GB max file.
   - [Simply-Premium](https://simply-premium.com) - from `€5.83/mo`, 19 hosts + Usenet + torrents. Since 2009.
   - [Storage Portal](https://storage-portal.com) - pay-as-you-go from `$1.50` (5GB), no monthly fee — 50+ hosts. JDownloader support.
-  - [Vecwire](https://get.vecwire.com) - free (5 links/day on free hosts) + premium (Rapidgator, Nitroflare, K2S, Hot4share).
+  - [Vecwire](https://get.vecwire.com) - `$3.49/7d` … `$39.99/180d` (one-time, no auto-renewal), from `$0.30/day` — OCH (Rapidgator, Nitroflare, K2S, Hot4share, Uploadgig on any premium plan) — links verified before delivery; a link that dies within 3 minutes auto-refunds the bandwidth. Free tier: 5 links/day (1fichier, Fshare, syncs.online, YouTube), no card.
   - ~~[Ddebrid/Filemium](https://ddebrid.com)~~ - redirects to Filemium. French. ⚠️ Dead.
   - ~~[Debrid.xyz](https://debrid.xyz)~~ - 40 hosts. Spain-based. ⚠️ Dead.
   - ~~[EasyBytez](https://easybytez.com)~~ - ⚠️ Dead.
